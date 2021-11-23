@@ -195,7 +195,7 @@ GSOffsetHorizontal = 10;
 GSOffsetMakeStroke = 1;
 GSOffsetVertical = 10;
 };
-weightValue = 800;
+weightValue = 400;
 xHeight = 495;
 }
 );
@@ -116304,7 +116304,7 @@ note = robbie;
 );
 instances = (
 {
-interpolationWeight = 800;
+interpolationWeight = 400;
 instanceInterpolations = {
 "04A772B0-FA71-43EE-BB43-CAC7F0EBD631" = 1;
 };
@@ -116315,5 +116315,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }

@@ -190,7 +190,7 @@ position = "{179, -285}";
 );
 id = "6544E2DB-1912-401E-9B5B-A29F161A5995";
 italicAngle = 8;
-weightValue = 800;
+weightValue = 400;
 xHeight = 495;
 }
 );
@@ -101564,13 +101564,12 @@ note = robbie;
 );
 instances = (
 {
-interpolationWeight = 800;
+interpolationWeight = 400;
 instanceInterpolations = {
 "6544E2DB-1912-401E-9B5B-A29F161A5995" = 1;
 };
 isItalic = 1;
 name = Italic;
-weightClass = ExtraBold;
 }
 );
 kerning = {
@@ -102322,5 +102321,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 4;
 }
