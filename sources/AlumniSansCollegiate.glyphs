@@ -5,7 +5,9 @@ An,
 abcdefghijklmnopqrstuvwxyz,
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "/commaaccentcomb G/Gcommaaccent/Kcommaaccent/Lcommaaccent/Ncommaaccent/Rcommaaccent/Scommaaccent/Tcommaaccent/kcommaaccent/lcommaaccent/ncommaaccent/rcommaaccent/scommaaccent/tcommaaccent",
-""
+"",
+"/nbspace",
+"/.null"
 );
 copyright = "Copyright 2014 The Alumni Sans Collegiate Project Authors (https://github.com/googlefonts/allumini-sans-collegiate)";
 customParameters = (
@@ -263,6 +265,17 @@ width = 534;
 note = .notdef;
 },
 {
+glyphname = .null;
+lastChange = "2021-11-23 00:10:17 +0000";
+layers = (
+{
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+width = 0;
+}
+);
+note = NULL;
+},
+{
 glyphname = CR;
 lastChange = "2021-11-22 23:10:22 +0000";
 layers = (
@@ -288,13 +301,14 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
-lastChange = "2021-11-22 23:10:22 +0000";
+lastChange = "2021-11-23 00:09:24 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
-width = 0;
+width = 150;
 }
 );
+widthMetricsKey = space;
 note = uni00A0;
 unicode = 00A0;
 },
@@ -114360,17 +114374,6 @@ width = 359;
 }
 );
 note = circumflexcomb_tildecomb;
-},
-{
-glyphname = NULL;
-lastChange = "2021-11-22 23:10:22 +0000";
-layers = (
-{
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
-width = 0;
-}
-);
-note = NULL;
 },
 {
 glyphname = arrow_top_left;
