@@ -23,7 +23,9 @@ T,
 "/Aogonek",
 "/Amacron",
 "/aogonek",
-"/amacron"
+"/amacron",
+"AÅ",
+"/Aringacute"
 );
 classes = (
 {
@@ -360,7 +362,7 @@ unicode = 00A0;
 },
 {
 glyphname = A;
-lastChange = "2021-12-03 07:30:48 +0000";
+lastChange = "2021-12-03 09:20:25 +0000";
 layers = (
 {
 anchors = (
@@ -1007,7 +1009,7 @@ unicode = 0104;
 },
 {
 glyphname = Aring;
-lastChange = "2021-12-03 07:30:48 +0000";
+lastChange = "2021-12-03 09:20:34 +0000";
 layers = (
 {
 components = (
@@ -1015,8 +1017,9 @@ components = (
 name = A;
 },
 {
+alignment = -1;
 name = ringcomb.case;
-transform = "{1, 0, 0, 1, 108, 0}";
+transform = "{1, 0, 0, 1, 105, -24}";
 }
 );
 layerId = "6544E2DB-1912-401E-9B5B-A29F161A5995";
@@ -1030,7 +1033,7 @@ unicode = 00C5;
 },
 {
 glyphname = Aringacute;
-lastChange = "2021-12-03 07:30:48 +0000";
+lastChange = "2021-12-03 09:20:45 +0000";
 layers = (
 {
 components = (
@@ -1038,12 +1041,13 @@ components = (
 name = A;
 },
 {
+alignment = -1;
 name = ringcomb.case;
-transform = "{1, 0, 0, 1, 108, 0}";
+transform = "{1, 0, 0, 1, 105, -25}";
 },
 {
 name = acutecomb.case;
-transform = "{1, 0, 0, 1, 150, 179}";
+transform = "{1, 0, 0, 1, 147, 154}";
 }
 );
 layerId = "6544E2DB-1912-401E-9B5B-A29F161A5995";
