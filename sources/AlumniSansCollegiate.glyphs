@@ -1,11 +1,12 @@
 {
-.appVersion = "1357";
+.appVersion = "1352";
 DisplayStrings = (
 abcdefghijklmnopqrstuvwxyz,
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 ABCDEFGHRSTUVXY,
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ng",
-"0123456789/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf/zero.slash/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr/zerosuperior ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior ½¼¾/zero.sc/one.sc/two.sc/three.sc/four.sc/five.sc/six.sc/seven.sc/eight.sc/nine.sc/zero.slash.sc .,:;/ellipsis !¡?¿·/bullet *#///backslash/exclamdown.lining/questiondown.lining/periodcentered.loclCAT (){}[]-­/endash/emdash/horizontalbar/hyphentwo _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/hyphen.sc/endash.sc/emdash.sc/parenleft.sc/parenright.sc/braceleft.sc/braceright.sc/bracketleft.sc/bracketright.sc/period.sc/comma.sc/colon.sc/semicolon.sc/exclam.sc/exclamdown.sc/question.sc/questiondown.sc/quotedblleft.sc/quotedblright.sc/quoteleft.sc/quoteright.sc/asterisk.sc/numbersign.sc/slash.sc/backslash.sc/quotedbl.sc/quotesingle.sc/leftanglebracket-math/rightanglebracket-math/thinspace/space.sc/cedi ¢/colonsign ¤$/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/cent.oldstyle/dollar.oldstyle/euro.oldstyle/bulletoperator/commercialMinusSign +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬^/infinity/integral/Ohm/increment/product/summation/radical µ/partialdiff %/perthousand/percent.super/lozenge/apple @&¶§©®/trademark °/minute/second |¦/dagger/literSign/daggerdbl/estimated/numero/ampersand.001/ampersand.002/at.sc/ampersand.sc/copyright.sc/registered.sc/bar.sc/cent.sc/dollar.sc/euro.sc/plus.sc/minus.sc/multiply.sc/divide.sc/equal.sc/greater.sc/less.sc/percent.sc"
+"0123456789/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf/zero.osf/one.osf/two.osf/three.osf/four.osf/five.osf/six.osf/seven.osf/eight.osf/nine.osf/zero.slash/zeroinferior/oneinferior/twoinferior/threeinferior/fourinferior/fiveinferior/sixinferior/seveninferior/eightinferior/nineinferior/zero.dnom/one.dnom/two.dnom/three.dnom/four.dnom/five.dnom/six.dnom/seven.dnom/eight.dnom/nine.dnom/zero.numr/one.numr/two.numr/three.numr/four.numr/five.numr/six.numr/seven.numr/eight.numr/nine.numr/zerosuperior ¹²³/foursuperior/fivesuperior/sixsuperior/sevensuperior/eightsuperior/ninesuperior ½¼¾/zero.sc/one.sc/two.sc/three.sc/four.sc/five.sc/six.sc/seven.sc/eight.sc/nine.sc/zero.slash.sc .,:;/ellipsis !¡?¿·/bullet *#///backslash/exclamdown.lining/questiondown.lining/periodcentered.loclCAT (){}[]-­/endash/emdash/horizontalbar/hyphentwo _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/hyphen.sc/endash.sc/emdash.sc/parenleft.sc/parenright.sc/braceleft.sc/braceright.sc/bracketleft.sc/bracketright.sc/period.sc/comma.sc/colon.sc/semicolon.sc/exclam.sc/exclamdown.sc/question.sc/questiondown.sc/quotedblleft.sc/quotedblright.sc/quoteleft.sc/quoteright.sc/asterisk.sc/numbersign.sc/slash.sc/backslash.sc/quotedbl.sc/quotesingle.sc/leftanglebracket-math/rightanglebracket-math/thinspace/space.sc/cedi ¢/colonsign ¤$/euro/florin/franc/guarani/kip/lira/liraTurkish/manat/naira/peseta/peso/ruble/rupeeIndian £/won ¥/cent.oldstyle/dollar.oldstyle/euro.oldstyle/bulletoperator/commercialMinusSign +/minus ×÷=/notequal ></greaterequal/lessequal ±/approxequal ~¬^/infinity/integral/Ohm/increment/product/summation/radical µ/partialdiff %/perthousand/percent.super/lozenge/apple @&¶§©®/trademark °/minute/second |¦/dagger/literSign/daggerdbl/estimated/numero/ampersand.001/ampersand.002/at.sc/ampersand.sc/copyright.sc/registered.sc/bar.sc/cent.sc/dollar.sc/euro.sc/plus.sc/minus.sc/multiply.sc/divide.sc/equal.sc/greater.sc/less.sc/percent.sc",
+"a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghilmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space onvoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ng"
 );
 classes = (
 {
@@ -7272,7 +7273,7 @@ unicode = 018F;
 },
 {
 glyphname = T;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2021-12-07 16:23:02 +0000";
 layers = (
 {
 anchors = (
@@ -8394,7 +8395,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2021-12-07 16:23:14 +0000";
 layers = (
 {
 anchors = (
@@ -17800,7 +17801,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2021-12-07 16:23:48 +0000";
 layers = (
 {
 anchors = (
@@ -21576,7 +21577,7 @@ unicode = 0169;
 },
 {
 glyphname = v;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2021-12-07 16:24:21 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -21633,7 +21634,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2021-12-03 03:19:38 +0000";
+lastChange = "2021-12-07 16:23:09 +0000";
 layers = (
 {
 anchors = (
@@ -82341,6 +82342,7 @@ kerning = {
 "@MMK_L_T" = {
 "@MMK_R_A" = -15;
 "@MMK_R_O" = -4;
+"@MMK_R_a" = -10;
 "@MMK_R_o" = -30;
 "@MMK_R_s" = -30;
 };
@@ -82355,6 +82357,7 @@ kerning = {
 "@MMK_R_A" = -30;
 "@MMK_R_O" = -8;
 "@MMK_R_a" = -20;
+"@MMK_R_n" = -10;
 "@MMK_R_o" = -20;
 "@MMK_R_u" = -10;
 };
@@ -82374,11 +82377,11 @@ i = -20;
 "@MMK_R_o" = -20;
 };
 "@MMK_L_n" = {
-"@MMK_R_v" = -5;
+"@MMK_R_v" = -12;
 "@MMK_R_w" = -5;
 };
 "@MMK_L_o" = {
-"@MMK_R_v" = -10;
+"@MMK_R_v" = -14;
 "@MMK_R_x" = -10;
 };
 "@MMK_L_o.sc" = {
@@ -82402,7 +82405,11 @@ i = -20;
 "@MMK_R_o" = 0;
 };
 "@MMK_L_v" = {
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -14;
+};
+"@MMK_L_w" = {
+"@MMK_R_a" = -25;
+"@MMK_R_o" = -15;
 };
 "@MMK_L_w.sc" = {
 "@MMK_R_o.sc" = -8;
@@ -82444,5 +82451,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }

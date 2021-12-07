@@ -1,5 +1,5 @@
 {
-.appVersion = "1357";
+.appVersion = "1352";
 DisplayStrings = (
 "abcdefghijklmnopqrstuv\012uvwxyz",
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
@@ -2618,7 +2618,7 @@ unicode = 1EBC;
 },
 {
 glyphname = F;
-lastChange = "2021-12-06 09:01:27 +0000";
+lastChange = "2021-12-07 16:22:05 +0000";
 layers = (
 {
 layerId = "6544E2DB-1912-401E-9B5B-A29F161A5995";
@@ -8214,7 +8214,7 @@ unicode = 0056;
 },
 {
 glyphname = W;
-lastChange = "2021-12-06 09:01:27 +0000";
+lastChange = "2021-12-07 16:22:09 +0000";
 layers = (
 {
 anchors = (
@@ -12459,7 +12459,7 @@ note = Zcaron.tabular;
 },
 {
 glyphname = a;
-lastChange = "2021-12-06 10:09:29 +0000";
+lastChange = "2021-12-07 18:33:06 +0000";
 layers = (
 {
 anchors = (
@@ -12496,11 +12496,8 @@ nodes = (
 "39 475 OFFCURVE",
 "26 380 CURVE SMOOTH",
 "-3 168 LINE SMOOTH",
-"-5 151 OFFCURVE",
-"-7 132 OFFCURVE",
-"-7 117 CURVE SMOOTH",
-"-7 11 OFFCURVE",
-"39 -6 OFFCURVE",
+"-18 43 OFFCURVE",
+"4 -6 OFFCURVE",
 "122 -6 CURVE SMOOTH"
 );
 },
@@ -12550,11 +12547,8 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"52 12 OFFCURVE",
-"10 28 OFFCURVE",
-"10 117 CURVE SMOOTH",
-"10 132 OFFCURVE",
-"12 148 OFFCURVE",
+"21 12 OFFCURVE",
+"1 54 OFFCURVE",
 "14 165 CURVE SMOOTH",
 "44 377 LINE SMOOTH",
 "56 461 OFFCURVE",
@@ -21750,7 +21744,7 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2021-12-06 10:15:15 +0000";
+lastChange = "2021-12-07 16:19:34 +0000";
 layers = (
 {
 layerId = "6544E2DB-1912-401E-9B5B-A29F161A5995";
@@ -80412,6 +80406,7 @@ kerning = {
 };
 "@MMK_L_F" = {
 "@MMK_R_A" = -30;
+"@MMK_R_o" = -8;
 };
 "@MMK_L_H" = {
 "@MMK_R_H" = 0;
@@ -80457,6 +80452,7 @@ d.sc = 10;
 "@MMK_R_A" = -30;
 "@MMK_R_O" = -8;
 "@MMK_R_a" = -20;
+"@MMK_R_n" = -10;
 "@MMK_R_o" = -20;
 "@MMK_R_u" = -10;
 };
@@ -80514,7 +80510,7 @@ y.sc = -18;
 "@MMK_R_o.sc" = -8;
 };
 "@MMK_L_x" = {
-"@MMK_R_o" = -10;
+"@MMK_R_o" = -18;
 };
 N = {
 D = 10;
@@ -80562,5 +80558,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 4;
+versionMinor = 5;
 }
