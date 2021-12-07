@@ -2,7 +2,7 @@
 
 Alumni Sans Collegiate is a flavor of Alumni Black which offers added display options. While Alumni is available in Roman and Italic versions of each weight, the Collegiate version adds a decorative outline to the ExtraBold style. Use this variation for situations requiring a sporty look.
 
-![Sample Image](Documentation/image1.png)
+![Sample Image](documentation/image1.png)
 
 ## Building the Fonts
 
