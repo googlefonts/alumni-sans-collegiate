@@ -13,7 +13,8 @@ DisplayStrings = (
 "/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt L/Lcaron d/dcaron/lcaron t/tcaron/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/dblgravecomb/breveinvertedcomb/commaturnedabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/commaaccentcomb/commaturnedabovecomb/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/strokeshortcomb",
 "¿/.null/questiondown.lining",
 "/Aogonek/Eogonek/Iogonek/Oogonek/Uogonek/aogonek/eogonek/iogonek/oogonek/uogonek/ogonekcomb/ogonek i\012PARAL·LELH/space \012col·li·sion\012l/periodcentered.loclCAT l/space L/periodcentered.loclCAT.case L/space/L.sc/periodcentered.loclCAT.sc/L.sc",
-"C/Cacute/Ccaron/Ccircumflex/Cdotaccent/Es-cy Ç/Scedilla ç/scedilla"
+"C/Cacute/Ccaron/Ccircumflex/Cdotaccent/Es-cy Ç/Scedilla ç/scedilla",
+"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o.:;..../ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}[]-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math @\012.,:;/ellipsis !¡?¿·/bullet/exclamdown.lining/questiondown.lining/A.sc/A.ss01/B.ss01/period.ss01/comma.ss01/colon.ss01/semicolon.ss01/exclam.ss01/exclamdown.ss01/question.ss01/questiondown.ss01 \012/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotedblleft.ss01/quotedblright.ss01/quoteleft.ss01/quoteright.ss01/H.sc/period.sc/comma.sc/colon.sc/semicolon.sc/exclam.sc/exclamdown.sc/question.sc/questiondown.sc/quotedblleft.sc/quotedblright.sc/quoteleft.sc/quoteright.sc \012"
 );
 classes = (
 {
@@ -13792,7 +13793,7 @@ unicode = 017B;
 {
 color = 4;
 glyphname = A.ss01;
-lastChange = "2021-12-07 22:40:27 +0000";
+lastChange = "2022-01-20 18:40:00 +0000";
 layers = (
 {
 anchors = (
@@ -13809,7 +13810,7 @@ name = top;
 position = "{223, 495}";
 }
 );
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -13842,6 +13843,64 @@ nodes = (
 "216 50 CURVE SMOOTH",
 "214 18 LINE",
 "71 18 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"205 27 LINE",
+"210 91 LINE",
+"236 91 LINE",
+"241 27 LINE",
+"369 27 LINE",
+"310 469 LINE",
+"142 469 LINE",
+"81 27 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"223 376 LINE",
+"236 149 LINE",
+"210 149 LINE"
+);
+}
+);
+};
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+paths = (
+{
+closed = 1;
+nodes = (
+"399 0 LINE",
+"332 496 LINE",
+"120 496 LINE",
+"51 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"135 478 LINE",
+"317 478 LINE",
+"379 18 LINE",
+"233 18 LINE",
+"228 82 LINE",
+"218 82 LINE",
+"217 72 OFFCURVE",
+"217 61 OFFCURVE",
+"216 50 CURVE SMOOTH",
+"214 18 LINE",
+"71 18 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"227 158 LINE",
+"222 228 LINE",
+"218 158 LINE"
 );
 },
 {
@@ -61648,7 +61707,7 @@ note = zero.slash.smcap;
 },
 {
 glyphname = period;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-20 18:23:21 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -61711,14 +61770,14 @@ assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 
 width = 190;
 }
 );
-leftKerningGroup = comma;
+leftKerningGroup = period;
 note = period;
-rightKerningGroup = comma;
+rightKerningGroup = period;
 unicode = 002E;
 },
 {
 glyphname = comma;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-20 18:23:36 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -61821,16 +61880,16 @@ assembly = "PUSHW[ ]	/* 4 values pushed */\01213 6 57 4 \012CALL[ ]	/* CallFunct
 width = 200;
 }
 );
-leftKerningGroup = comma;
+leftKerningGroup = period;
 leftMetricsKey = period;
 note = comma;
-rightKerningGroup = comma;
+rightKerningGroup = period;
 rightMetricsKey = period;
 unicode = 002C;
 },
 {
 glyphname = colon;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-20 18:23:49 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -61944,10 +62003,8 @@ assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 
 width = 190;
 }
 );
-leftKerningGroup = period;
 leftMetricsKey = period;
 note = colon;
-rightKerningGroup = period;
 rightMetricsKey = period;
 unicode = 003A;
 },
@@ -62107,25 +62164,49 @@ unicode = 003B;
 },
 {
 glyphname = ellipsis;
-lastChange = "2021-12-17 04:58:44 +0000";
+lastChange = "2022-01-20 18:26:06 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"172 30 LINE",
+"203 30 LINE",
+"203 88 LINE",
+"172 88 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"357 30 LINE",
+"388 30 LINE",
+"388 88 LINE",
+"357 88 LINE"
+);
+}
+);
+};
 components = (
 {
 name = period;
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 195, 0}";
 },
 {
 name = period;
+transform = "{1, 0, 0, 1, 390, 0}";
 }
 );
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\0126 5 0 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01230 5 24 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01218 5 12 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0126 6 22 6 38 6 54 6 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 9 values pushed */\0129 12 25 12 41 12 57 12 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 9 values pushed */\0129 24 25 24 41 24 57 24 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012111 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 values pushed */\0123 4 9 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01215 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01221 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01227 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01245 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01245 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01251 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01251 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01257 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01257 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01263 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01263 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01269 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01269 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 190;
+width = 580;
 }
 );
 leftKerningGroup = period;
@@ -62137,7 +62218,7 @@ unicode = 2026;
 },
 {
 glyphname = exclam;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-20 18:27:02 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -62145,88 +62226,88 @@ paths = (
 {
 closed = 1;
 nodes = (
-"152 -7 OFFCURVE",
-"188 37 OFFCURVE",
-"188 90 CURVE SMOOTH",
-"188 123 OFFCURVE",
-"172 153 OFFCURVE",
-"148 172 CURVE",
-"157 172 LINE",
-"180 370 LINE",
-"186 631 LINE",
-"14 631 LINE",
-"21 367 LINE",
-"44 172 LINE",
-"59 172 LINE",
-"35 153 OFFCURVE",
-"20 123 OFFCURVE",
-"20 90 CURVE SMOOTH",
-"20 37 OFFCURVE",
-"56 -7 OFFCURVE",
-"104 -7 CURVE SMOOTH"
+"166 -7 OFFCURVE",
+"206 37 OFFCURVE",
+"206 90 CURVE SMOOTH",
+"206 123 OFFCURVE",
+"186 153 OFFCURVE",
+"156 172 CURVE",
+"165 172 LINE",
+"188 370 LINE",
+"194 631 LINE",
+"22 631 LINE",
+"29 367 LINE",
+"52 172 LINE",
+"67 172 LINE",
+"37 153 OFFCURVE",
+"18 123 OFFCURVE",
+"18 90 CURVE SMOOTH",
+"18 37 OFFCURVE",
+"58 -7 OFFCURVE",
+"112 -7 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"65 11 OFFCURVE",
-"35 46 OFFCURVE",
-"35 90 CURVE SMOOTH",
-"35 133 OFFCURVE",
-"65 168 OFFCURVE",
-"104 168 CURVE SMOOTH",
-"143 168 OFFCURVE",
-"173 133 OFFCURVE",
-"173 90 CURVE SMOOTH",
-"173 46 OFFCURVE",
-"143 11 OFFCURVE",
-"104 11 CURVE SMOOTH"
+"67 11 OFFCURVE",
+"33 46 OFFCURVE",
+"33 90 CURVE SMOOTH",
+"33 133 OFFCURVE",
+"67 168 OFFCURVE",
+"112 168 CURVE SMOOTH",
+"157 168 OFFCURVE",
+"191 133 OFFCURVE",
+"191 90 CURVE SMOOTH",
+"191 46 OFFCURVE",
+"157 11 OFFCURVE",
+"112 11 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"139 20 OFFCURVE",
-"165 51 OFFCURVE",
-"165 90 CURVE SMOOTH",
-"165 127 OFFCURVE",
-"139 159 OFFCURVE",
-"104 159 CURVE SMOOTH",
-"69 159 OFFCURVE",
-"42 127 OFFCURVE",
-"42 90 CURVE SMOOTH",
-"42 51 OFFCURVE",
-"69 20 OFFCURVE",
-"104 20 CURVE SMOOTH"
+"43 371 LINE",
+"38 612 LINE",
+"179 612 LINE",
+"173 374 LINE",
+"152 190 LINE",
+"64 190 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"35 371 LINE",
-"30 612 LINE",
-"171 612 LINE",
-"165 374 LINE",
-"144 190 LINE",
-"56 190 LINE"
+"153 20 OFFCURVE",
+"183 51 OFFCURVE",
+"183 90 CURVE SMOOTH",
+"183 127 OFFCURVE",
+"153 159 OFFCURVE",
+"112 159 CURVE SMOOTH",
+"71 159 OFFCURVE",
+"40 127 OFFCURVE",
+"40 90 CURVE SMOOTH",
+"40 51 OFFCURVE",
+"71 20 OFFCURVE",
+"112 20 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"137 199 LINE",
-"157 375 LINE",
-"163 603 LINE",
-"37 603 LINE",
-"43 372 LINE",
-"63 199 LINE"
+"145 199 LINE",
+"165 375 LINE",
+"171 603 LINE",
+"45 603 LINE",
+"51 372 LINE",
+"71 199 LINE"
 );
 }
 );
 userData = {
 assembly = "SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0123 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 202;
+width = 224;
 }
 );
 note = exclam;
@@ -62234,10 +62315,10 @@ unicode = 0021;
 },
 {
 glyphname = exclamdown;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-20 18:27:34 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -62320,7 +62401,15 @@ nodes = (
 );
 }
 );
-width = 201;
+};
+components = (
+{
+name = exclam;
+transform = "{-1, 0, 0, -1, 224, 508}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+width = 224;
 }
 );
 note = exclamdown;
@@ -62328,10 +62417,10 @@ unicode = 00A1;
 },
 {
 glyphname = question;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-20 18:36:10 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -62485,6 +62574,150 @@ nodes = (
 );
 }
 );
+};
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+paths = (
+{
+closed = 1;
+nodes = (
+"70 594 OFFCURVE",
+"8 541 OFFCURVE",
+"8 436 CURVE SMOOTH",
+"8 331 LINE",
+"155 331 LINE",
+"142 324 OFFCURVE",
+"126 319 OFFCURVE",
+"111 319 CURVE",
+"85 292 LINE",
+"85 152 LINE",
+"105 152 LINE",
+"88 133 OFFCURVE",
+"77 111 OFFCURVE",
+"77 84 CURVE SMOOTH",
+"77 40 OFFCURVE",
+"109 -9 OFFCURVE",
+"168 -9 CURVE SMOOTH",
+"225 -9 OFFCURVE",
+"260 37 OFFCURVE",
+"260 84 CURVE SMOOTH",
+"260 111 OFFCURVE",
+"251 133 OFFCURVE",
+"232 152 CURVE",
+"254 152 LINE",
+"254 226 LINE",
+"265 227 OFFCURVE",
+"276 231 OFFCURVE",
+"288 236 CURVE SMOOTH",
+"353 263 OFFCURVE",
+"375 337 OFFCURVE",
+"375 411 CURVE SMOOTH",
+"375 548 OFFCURVE",
+"329 594 OFFCURVE",
+"191 594 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"317 577 OFFCURVE",
+"357 533 OFFCURVE",
+"357 411 CURVE SMOOTH",
+"357 346 OFFCURVE",
+"338 277 OFFCURVE",
+"278 250 CURVE SMOOTH",
+"269 246 OFFCURVE",
+"249 242 OFFCURVE",
+"237 241 CURVE",
+"237 170 LINE",
+"102 170 LINE",
+"102 292 LINE",
+"111 301 LINE",
+"153 301 OFFCURVE",
+"198 330 OFFCURVE",
+"198 376 CURVE SMOOTH",
+"198 428 LINE SMOOTH",
+"198 449 OFFCURVE",
+"196 457 OFFCURVE",
+"189 457 CURVE SMOOTH",
+"182 457 OFFCURVE",
+"180 446 OFFCURVE",
+"180 428 CURVE SMOOTH",
+"180 349 LINE",
+"26 349 LINE",
+"26 436 LINE SMOOTH",
+"26 530 OFFCURVE",
+"81 577 OFFCURVE",
+"191 577 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"211 160 OFFCURVE",
+"243 127 OFFCURVE",
+"243 84 CURVE SMOOTH",
+"243 43 OFFCURVE",
+"211 8 OFFCURVE",
+"168 8 CURVE SMOOTH",
+"125 8 OFFCURVE",
+"94 43 OFFCURVE",
+"94 84 CURVE SMOOTH",
+"94 127 OFFCURVE",
+"125 160 OFFCURVE",
+"168 160 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"87 568 OFFCURVE",
+"35 524 OFFCURVE",
+"35 436 CURVE SMOOTH",
+"35 357 LINE",
+"171 357 LINE",
+"171 425 LINE SMOOTH",
+"171 452 OFFCURVE",
+"177 465 OFFCURVE",
+"189 465 CURVE SMOOTH",
+"202 465 OFFCURVE",
+"207 453 OFFCURVE",
+"207 425 CURVE SMOOTH",
+"207 376 LINE SMOOTH",
+"207 324 OFFCURVE",
+"160 292 OFFCURVE",
+"111 292 CURVE",
+"111 179 LINE",
+"229 179 LINE",
+"229 250 LINE",
+"236 250 OFFCURVE",
+"263 253 OFFCURVE",
+"275 258 CURVE SMOOTH",
+"333 282 OFFCURVE",
+"348 348 OFFCURVE",
+"348 411 CURVE SMOOTH",
+"348 528 OFFCURVE",
+"310 568 OFFCURVE",
+"191 568 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"132 151 OFFCURVE",
+"102 121 OFFCURVE",
+"102 84 CURVE SMOOTH",
+"102 47 OFFCURVE",
+"132 17 OFFCURVE",
+"168 17 CURVE SMOOTH",
+"205 17 OFFCURVE",
+"235 47 OFFCURVE",
+"235 84 CURVE SMOOTH",
+"235 121 OFFCURVE",
+"205 151 OFFCURVE",
+"168 151 CURVE SMOOTH"
+);
+}
+);
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01251 6 0 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01251 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01259 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01259 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012100 0 51 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012119 0 51 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
@@ -62496,18 +62729,168 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-20 18:36:40 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
 nodes = (
+"-87 -80 OFFCURVE",
+"-26 -27 OFFCURVE",
+"-26 78 CURVE SMOOTH",
+"-26 183 LINE",
+"-172 183 LINE",
+"-159 190 OFFCURVE",
+"-143 195 OFFCURVE",
+"-128 195 CURVE",
+"-102 222 LINE",
+"-102 362 LINE",
+"-122 362 LINE",
+"-105 381 OFFCURVE",
+"-94 403 OFFCURVE",
+"-94 430 CURVE SMOOTH",
+"-94 480 OFFCURVE",
+"-135 524 OFFCURVE",
+"-185 524 CURVE SMOOTH",
+"-236 524 OFFCURVE",
+"-277 481 OFFCURVE",
+"-277 430 CURVE SMOOTH",
+"-277 403 OFFCURVE",
+"-268 381 OFFCURVE",
+"-249 362 CURVE",
+"-271 362 LINE",
+"-271 290 LINE",
+"-283 287 OFFCURVE",
+"-295 285 OFFCURVE",
+"-302 281 CURVE SMOOTH",
+"-301 281 LINE",
+"-371 253 OFFCURVE",
+"-391 177 OFFCURVE",
+"-391 103 CURVE SMOOTH",
+"-391 -34 OFFCURVE",
+"-346 -80 OFFCURVE",
+"-208 -80 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-334 -62 OFFCURVE",
+"-374 -18 OFFCURVE",
+"-374 103 CURVE SMOOTH",
+"-374 168 OFFCURVE",
+"-357 241 OFFCURVE",
+"-295 264 CURVE",
+"-286 269 OFFCURVE",
+"-266 272 OFFCURVE",
+"-254 273 CURVE",
+"-254 344 LINE",
+"-119 344 LINE",
+"-119 222 LINE",
+"-128 213 LINE",
+"-170 213 OFFCURVE",
+"-215 184 OFFCURVE",
+"-215 138 CURVE SMOOTH",
+"-215 98 LINE SMOOTH",
+"-215 87 OFFCURVE",
+"-214 78 OFFCURVE",
+"-213 70 CURVE SMOOTH",
+"-212 62 OFFCURVE",
+"-210 58 OFFCURVE",
+"-206 58 CURVE SMOOTH",
+"-201 58 OFFCURVE",
+"-199 64 OFFCURVE",
+"-198 75 CURVE SMOOTH",
+"-197 86 OFFCURVE",
+"-197 103 OFFCURVE",
+"-197 124 CURVE SMOOTH",
+"-197 165 LINE",
+"-43 165 LINE",
+"-43 78 LINE SMOOTH",
+"-43 -15 OFFCURVE",
+"-98 -62 OFFCURVE",
+"-208 -62 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-228 354 OFFCURVE",
+"-260 387 OFFCURVE",
+"-260 430 CURVE SMOOTH",
+"-260 471 OFFCURVE",
+"-228 506 OFFCURVE",
+"-185 506 CURVE SMOOTH",
+"-142 506 OFFCURVE",
+"-111 471 OFFCURVE",
+"-111 430 CURVE SMOOTH",
+"-111 387 OFFCURVE",
+"-142 354 OFFCURVE",
+"-185 354 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-104 -53 OFFCURVE",
+"-52 -9 OFFCURVE",
+"-52 78 CURVE SMOOTH",
+"-52 156 LINE",
+"-188 156 LINE",
+"-188 124 LINE SMOOTH",
+"-188 99 OFFCURVE",
+"-189 81 OFFCURVE",
+"-190 68 CURVE SMOOTH",
+"-191 55 OFFCURVE",
+"-197 49 OFFCURVE",
+"-206 49 CURVE SMOOTH",
+"-221 49 OFFCURVE",
+"-223 71 OFFCURVE",
+"-223 98 CURVE SMOOTH",
+"-223 138 LINE SMOOTH",
+"-223 190 OFFCURVE",
+"-176 222 OFFCURVE",
+"-128 222 CURVE",
+"-128 335 LINE",
+"-246 335 LINE",
+"-246 264 LINE",
+"-253 264 OFFCURVE",
+"-280 261 OFFCURVE",
+"-292 256 CURVE SMOOTH",
+"-350 232 OFFCURVE",
+"-365 166 OFFCURVE",
+"-365 103 CURVE SMOOTH",
+"-365 -13 OFFCURVE",
+"-327 -53 OFFCURVE",
+"-208 -53 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"-149 363 OFFCURVE",
+"-119 393 OFFCURVE",
+"-119 430 CURVE SMOOTH",
+"-119 467 OFFCURVE",
+"-149 497 OFFCURVE",
+"-185 497 CURVE SMOOTH",
+"-222 497 OFFCURVE",
+"-252 467 OFFCURVE",
+"-252 430 CURVE SMOOTH",
+"-252 393 OFFCURVE",
+"-222 363 OFFCURVE",
+"-185 363 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
 "313 -80 OFFCURVE",
-"374 -27 OFFCURVE",
-"374 78 CURVE SMOOTH",
-"374 183 LINE",
+"375 -27 OFFCURVE",
+"375 78 CURVE SMOOTH",
+"375 183 LINE",
 "228 183 LINE",
 "241 190 OFFCURVE",
 "257 195 OFFCURVE",
@@ -62518,25 +62901,24 @@ nodes = (
 "295 381 OFFCURVE",
 "306 403 OFFCURVE",
 "306 430 CURVE SMOOTH",
-"306 480 OFFCURVE",
-"265 524 OFFCURVE",
-"215 524 CURVE SMOOTH",
-"164 524 OFFCURVE",
-"123 481 OFFCURVE",
+"306 474 OFFCURVE",
+"274 523 OFFCURVE",
+"215 523 CURVE SMOOTH",
+"158 523 OFFCURVE",
+"123 477 OFFCURVE",
 "123 430 CURVE SMOOTH",
 "123 403 OFFCURVE",
 "132 381 OFFCURVE",
 "151 362 CURVE",
 "129 362 LINE",
-"129 290 LINE",
-"117 287 OFFCURVE",
-"105 285 OFFCURVE",
-"98 281 CURVE",
-"99 281 LINE",
-"29 253 OFFCURVE",
-"9 177 OFFCURVE",
-"9 103 CURVE SMOOTH",
-"9 -34 OFFCURVE",
+"129 288 LINE",
+"118 287 OFFCURVE",
+"107 283 OFFCURVE",
+"95 278 CURVE SMOOTH",
+"30 251 OFFCURVE",
+"8 177 OFFCURVE",
+"8 103 CURVE SMOOTH",
+"8 -34 OFFCURVE",
 "54 -80 OFFCURVE",
 "192 -80 CURVE SMOOTH"
 );
@@ -62544,13 +62926,13 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"66 -62 OFFCURVE",
-"26 -18 OFFCURVE",
+"66 -63 OFFCURVE",
+"26 -19 OFFCURVE",
 "26 103 CURVE SMOOTH",
 "26 168 OFFCURVE",
-"43 241 OFFCURVE",
-"105 264 CURVE",
-"114 269 OFFCURVE",
+"45 237 OFFCURVE",
+"105 264 CURVE SMOOTH",
+"114 268 OFFCURVE",
 "134 272 OFFCURVE",
 "146 273 CURVE",
 "146 344 LINE",
@@ -62560,61 +62942,19 @@ nodes = (
 "230 213 OFFCURVE",
 "185 184 OFFCURVE",
 "185 138 CURVE SMOOTH",
-"185 98 LINE SMOOTH",
-"185 87 OFFCURVE",
-"186 78 OFFCURVE",
-"187 70 CURVE SMOOTH",
-"188 62 OFFCURVE",
-"190 58 OFFCURVE",
-"194 58 CURVE SMOOTH",
-"199 58 OFFCURVE",
-"201 64 OFFCURVE",
-"202 75 CURVE SMOOTH",
-"203 86 OFFCURVE",
-"203 103 OFFCURVE",
-"203 124 CURVE SMOOTH",
+"185 86 LINE SMOOTH",
+"185 65 OFFCURVE",
+"187 57 OFFCURVE",
+"194 57 CURVE SMOOTH",
+"201 57 OFFCURVE",
+"203 68 OFFCURVE",
+"203 86 CURVE SMOOTH",
 "203 165 LINE",
 "357 165 LINE",
 "357 78 LINE SMOOTH",
-"357 -15 OFFCURVE",
-"302 -62 OFFCURVE",
-"192 -62 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"296 -53 OFFCURVE",
-"348 -9 OFFCURVE",
-"348 78 CURVE SMOOTH",
-"348 156 LINE",
-"212 156 LINE",
-"212 124 LINE SMOOTH",
-"212 99 OFFCURVE",
-"211 81 OFFCURVE",
-"210 68 CURVE SMOOTH",
-"209 55 OFFCURVE",
-"203 49 OFFCURVE",
-"194 49 CURVE SMOOTH",
-"179 49 OFFCURVE",
-"177 71 OFFCURVE",
-"177 98 CURVE SMOOTH",
-"177 138 LINE SMOOTH",
-"177 190 OFFCURVE",
-"224 222 OFFCURVE",
-"272 222 CURVE",
-"272 335 LINE",
-"154 335 LINE",
-"154 264 LINE",
-"147 264 OFFCURVE",
-"120 261 OFFCURVE",
-"108 256 CURVE SMOOTH",
-"50 232 OFFCURVE",
-"35 166 OFFCURVE",
-"35 103 CURVE SMOOTH",
-"35 -13 OFFCURVE",
-"73 -53 OFFCURVE",
-"192 -53 CURVE SMOOTH"
+"357 -16 OFFCURVE",
+"302 -63 OFFCURVE",
+"192 -63 CURVE SMOOTH"
 );
 },
 {
@@ -62637,6 +62977,39 @@ nodes = (
 {
 closed = 1;
 nodes = (
+"296 -54 OFFCURVE",
+"348 -10 OFFCURVE",
+"348 78 CURVE SMOOTH",
+"348 157 LINE",
+"212 157 LINE",
+"212 89 LINE SMOOTH",
+"212 62 OFFCURVE",
+"206 49 OFFCURVE",
+"194 49 CURVE SMOOTH",
+"181 49 OFFCURVE",
+"176 61 OFFCURVE",
+"176 89 CURVE SMOOTH",
+"176 138 LINE SMOOTH",
+"176 190 OFFCURVE",
+"223 222 OFFCURVE",
+"272 222 CURVE",
+"272 335 LINE",
+"154 335 LINE",
+"154 264 LINE",
+"147 264 OFFCURVE",
+"120 261 OFFCURVE",
+"108 256 CURVE SMOOTH",
+"50 232 OFFCURVE",
+"35 166 OFFCURVE",
+"35 103 CURVE SMOOTH",
+"35 -14 OFFCURVE",
+"73 -54 OFFCURVE",
+"192 -54 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
 "251 363 OFFCURVE",
 "281 393 OFFCURVE",
 "281 430 CURVE SMOOTH",
@@ -62652,6 +63025,14 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = question;
+transform = "{-1, 0, 0, -1, 383, 515}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01245 6 31 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01231 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01294 31 45 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012100 31 45 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012120 31 39 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
@@ -63588,10 +63969,10 @@ width = 160;
 {
 color = 4;
 glyphname = period.ss01;
-lastChange = "2021-12-07 22:40:27 +0000";
+lastChange = "2022-01-20 21:04:16 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -63645,6 +64026,66 @@ nodes = (
 );
 }
 );
+};
+guideLines = (
+{
+position = "{314, 116}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+paths = (
+{
+closed = 1;
+nodes = (
+"249 17 OFFCURVE",
+"271 37 OFFCURVE",
+"271 61 CURVE SMOOTH",
+"271 86 OFFCURVE",
+"249 106 OFFCURVE",
+"224 106 CURVE SMOOTH",
+"200 106 OFFCURVE",
+"179 86 OFFCURVE",
+"179 61 CURVE SMOOTH",
+"179 37 OFFCURVE",
+"200 17 OFFCURVE",
+"224 17 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"261 -4 OFFCURVE",
+"292 26 OFFCURVE",
+"292 61 CURVE SMOOTH",
+"292 97 OFFCURVE",
+"261 127 OFFCURVE",
+"224 127 CURVE SMOOTH",
+"188 127 OFFCURVE",
+"158 97 OFFCURVE",
+"158 61 CURVE SMOOTH",
+"158 26 OFFCURVE",
+"188 -4 OFFCURVE",
+"224 -4 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"196 10 OFFCURVE",
+"172 33 OFFCURVE",
+"172 61 CURVE SMOOTH",
+"172 89 OFFCURVE",
+"196 113 OFFCURVE",
+"224 113 CURVE SMOOTH",
+"253 113 OFFCURVE",
+"278 89 OFFCURVE",
+"278 61 CURVE SMOOTH",
+"278 33 OFFCURVE",
+"253 10 OFFCURVE",
+"224 10 CURVE SMOOTH"
+);
+}
+);
 userData = {
 assembly = "PUSHW[ ]	/* 1 value pushed */\01236 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDRP[11100]	/* MoveDirectRelPt */\012NPUSHW[ ]	/* 7 values pushed */\01280 0 96 0 112 0 3 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 3 values pushed */\012144 0 1 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 7 values pushed */\012208 0 224 0 240 0 3 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 3 values pushed */\012176 0 1 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 3 values pushed */\01248 0 1 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 3 values pushed */\01216 0 1 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 2 values pushed */\0126 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\0126 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01218 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01230 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01237 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01233 7 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 2 values pushed */\0123 2 \012MIRP[10100]	/* MoveIndirectRelPt */\012NPUSHW[ ]	/* 15 values pushed */\0127 3 23 3 39 3 55 3 71 3 87 3 103 3 7 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 5 values pushed */\012118 3 134 3 2 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 2 values pushed */\0129 2 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01215 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01215 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01221 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01227 2 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
@@ -63656,10 +64097,10 @@ note = period.tabular;
 {
 color = 4;
 glyphname = comma.ss01;
-lastChange = "2021-12-07 22:40:27 +0000";
+lastChange = "2022-01-20 21:01:49 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -63751,6 +64192,240 @@ nodes = (
 "209 -30 CURVE",
 "195 -66 LINE"
 );
+},
+{
+closed = 1;
+nodes = (
+"236 -86 LINE",
+"241 -77 OFFCURVE",
+"246 -69 OFFCURVE",
+"251 -59 CURVE SMOOTH",
+"260 -42 OFFCURVE",
+"271 -19 OFFCURVE",
+"278 2 CURVE SMOOTH",
+"282 17 OFFCURVE",
+"287 39 OFFCURVE",
+"287 54 CURVE SMOOTH",
+"287 92 OFFCURVE",
+"264 118 OFFCURVE",
+"231 118 CURVE SMOOTH",
+"199 118 OFFCURVE",
+"173 91 OFFCURVE",
+"173 56 CURVE SMOOTH",
+"173 44 OFFCURVE",
+"180 29 OFFCURVE",
+"187 20 CURVE SMOOTH",
+"194 11 OFFCURVE",
+"196 8 OFFCURVE",
+"196 4 CURVE SMOOTH",
+"196 -5 OFFCURVE",
+"194 -14 OFFCURVE",
+"191 -23 CURVE",
+"166 -86 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"203 -27 LINE",
+"206 -19 OFFCURVE",
+"209 -7 OFFCURVE",
+"209 4 CURVE SMOOTH",
+"209 10 OFFCURVE",
+"207 16 OFFCURVE",
+"203 21 CURVE SMOOTH",
+"196 29 OFFCURVE",
+"186 41 OFFCURVE",
+"186 56 CURVE SMOOTH",
+"186 83 OFFCURVE",
+"206 104 OFFCURVE",
+"231 104 CURVE SMOOTH",
+"256 104 OFFCURVE",
+"274 83 OFFCURVE",
+"274 54 CURVE SMOOTH",
+"274 41 OFFCURVE",
+"270 22 OFFCURVE",
+"266 7 CURVE SMOOTH",
+"259 -14 OFFCURVE",
+"249 -34 OFFCURVE",
+"242 -49 CURVE SMOOTH",
+"238 -58 OFFCURVE",
+"234 -66 OFFCURVE",
+"229 -74 CURVE",
+"185 -74 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"225 -66 LINE",
+"229 -59 OFFCURVE",
+"233 -52 OFFCURVE",
+"237 -44 CURVE SMOOTH",
+"244 -29 OFFCURVE",
+"253 -11 OFFCURVE",
+"260 9 CURVE SMOOTH",
+"264 24 OFFCURVE",
+"268 41 OFFCURVE",
+"268 54 CURVE SMOOTH",
+"268 78 OFFCURVE",
+"252 96 OFFCURVE",
+"231 96 CURVE SMOOTH",
+"210 96 OFFCURVE",
+"192 79 OFFCURVE",
+"192 56 CURVE SMOOTH",
+"192 45 OFFCURVE",
+"201 33 OFFCURVE",
+"208 26 CURVE SMOOTH",
+"220 11 OFFCURVE",
+"216 -12 OFFCURVE",
+"209 -30 CURVE SMOOTH",
+"195 -66 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"236 -86 LINE",
+"246 -68 OFFCURVE",
+"258 -45 OFFCURVE",
+"267 -23 CURVE SMOOTH",
+"275 -6 OFFCURVE",
+"287 27 OFFCURVE",
+"287 54 CURVE SMOOTH",
+"287 92 OFFCURVE",
+"264 118 OFFCURVE",
+"231 118 CURVE SMOOTH",
+"199 118 OFFCURVE",
+"173 91 OFFCURVE",
+"173 56 CURVE SMOOTH",
+"173 44 OFFCURVE",
+"180 29 OFFCURVE",
+"187 20 CURVE SMOOTH",
+"194 11 OFFCURVE",
+"196 8 OFFCURVE",
+"196 4 CURVE SMOOTH",
+"196 -5 OFFCURVE",
+"194 -14 OFFCURVE",
+"191 -23 CURVE",
+"166 -86 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"203 -27 LINE",
+"206 -19 OFFCURVE",
+"209 -7 OFFCURVE",
+"209 4 CURVE SMOOTH",
+"209 10 OFFCURVE",
+"207 16 OFFCURVE",
+"203 21 CURVE SMOOTH",
+"196 29 OFFCURVE",
+"186 41 OFFCURVE",
+"186 56 CURVE SMOOTH",
+"186 83 OFFCURVE",
+"206 104 OFFCURVE",
+"231 104 CURVE SMOOTH",
+"256 104 OFFCURVE",
+"274 83 OFFCURVE",
+"274 54 CURVE SMOOTH",
+"274 29 OFFCURVE",
+"263 -3 OFFCURVE",
+"257 -16 CURVE SMOOTH",
+"252 -28 OFFCURVE",
+"238 -59 OFFCURVE",
+"229 -74 CURVE",
+"185 -74 LINE"
+);
+}
+);
+};
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+paths = (
+{
+closed = 1;
+nodes = (
+"225 -66 LINE",
+"230 -58 OFFCURVE",
+"244 -29 OFFCURVE",
+"251 -14 CURVE SMOOTH",
+"259 5 OFFCURVE",
+"269 29 OFFCURVE",
+"269 51 CURVE SMOOTH",
+"269 77 OFFCURVE",
+"253 96 OFFCURVE",
+"228 96 CURVE SMOOTH",
+"205 96 OFFCURVE",
+"192 77 OFFCURVE",
+"192 59 CURVE SMOOTH",
+"192 44 OFFCURVE",
+"198 37.25 OFFCURVE",
+"204 30.5 CURVE SMOOTH",
+"210 23.75 OFFCURVE",
+"216 17 OFFCURVE",
+"216 2 CURVE SMOOTH",
+"216 -9 OFFCURVE",
+"214 -20 OFFCURVE",
+"203 -45 CURVE SMOOTH",
+"194 -66 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"163 -87 LINE",
+"237 -87 LINE",
+"245 -74 OFFCURVE",
+"259 -48 OFFCURVE",
+"270.192 -22.515 CURVE SMOOTH",
+"278.369 -3.114 OFFCURVE",
+"290 24.8 OFFCURVE",
+"290 51 CURVE SMOOTH",
+"290 89.364 OFFCURVE",
+"264.162 117 OFFCURVE",
+"228 117 CURVE SMOOTH",
+"195.985 117 OFFCURVE",
+"171 91.541 OFFCURVE",
+"171 59 CURVE SMOOTH",
+"171 36.016 OFFCURVE",
+"182.304 23.298 OFFCURVE",
+"188.304 16.548 CURVE SMOOTH",
+"194.214 9.9 OFFCURVE",
+"195 8.651 OFFCURVE",
+"195 2 CURVE SMOOTH",
+"195 -7.481 OFFCURVE",
+"192 -17 OFFCURVE",
+"183.738 -36.635 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"196.579 -42.212 LINE SMOOTH",
+"206 -20 OFFCURVE",
+"209 -9.395 OFFCURVE",
+"209 2 CURVE SMOOTH",
+"209 14.339 OFFCURVE",
+"204.768 19.099 OFFCURVE",
+"198.768 25.849 CURVE SMOOTH",
+"192.768 32.599 OFFCURVE",
+"185 41.339 OFFCURVE",
+"185 59 CURVE SMOOTH",
+"185 83.733 OFFCURVE",
+"203.807 103 OFFCURVE",
+"228 103 CURVE SMOOTH",
+"256.301 103 OFFCURVE",
+"276 81.576 OFFCURVE",
+"276 51 CURVE SMOOTH",
+"276 27.6 OFFCURVE",
+"265.457 2.296 OFFCURVE",
+"257.397 -16.838 CURVE SMOOTH",
+"248 -38 OFFCURVE",
+"236 -62 OFFCURVE",
+"229 -73 CURVE",
+"183.384 -73 LINE"
+);
 }
 );
 userData = {
@@ -63764,114 +64439,193 @@ note = comma.tabular;
 {
 color = 4;
 glyphname = colon.ss01;
-lastChange = "2021-12-07 22:40:27 +0000";
+lastChange = "2022-01-20 21:05:13 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
 nodes = (
-"255 237 OFFCURVE",
-"280 268 OFFCURVE",
-"280 307 CURVE SMOOTH",
-"280 347 OFFCURVE",
-"255 378 OFFCURVE",
-"224 378 CURVE SMOOTH",
-"195 378 OFFCURVE",
-"170 347 OFFCURVE",
-"170 307 CURVE SMOOTH",
-"170 268 OFFCURVE",
-"195 237 OFFCURVE",
-"224 237 CURVE SMOOTH"
+"61 -9 OFFCURVE",
+"90 22 OFFCURVE",
+"90 61 CURVE SMOOTH",
+"90 101 OFFCURVE",
+"61 132 OFFCURVE",
+"24 132 CURVE SMOOTH",
+"-10 132 OFFCURVE",
+"-40 101 OFFCURVE",
+"-40 61 CURVE SMOOTH",
+"-40 22 OFFCURVE",
+"-10 -9 OFFCURVE",
+"24 -9 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"255 -9 OFFCURVE",
-"280 22 OFFCURVE",
-"280 61 CURVE SMOOTH",
-"280 101 OFFCURVE",
-"255 132 OFFCURVE",
-"224 132 CURVE SMOOTH",
-"195 132 OFFCURVE",
-"170 101 OFFCURVE",
-"170 61 CURVE SMOOTH",
-"170 22 OFFCURVE",
-"195 -9 OFFCURVE",
-"224 -9 CURVE SMOOTH"
+"-5 9 OFFCURVE",
+"-27 33 OFFCURVE",
+"-27 61 CURVE SMOOTH",
+"-27 92 OFFCURVE",
+"-5 115 OFFCURVE",
+"24 115 CURVE SMOOTH",
+"52 115 OFFCURVE",
+"77 92 OFFCURVE",
+"77 61 CURVE SMOOTH",
+"77 33 OFFCURVE",
+"52 9 OFFCURVE",
+"24 9 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"201 9 OFFCURVE",
-"183 33 OFFCURVE",
-"183 61 CURVE SMOOTH",
-"183 92 OFFCURVE",
-"201 115 OFFCURVE",
-"224 115 CURVE SMOOTH",
-"247 115 OFFCURVE",
-"267 92 OFFCURVE",
-"267 61 CURVE SMOOTH",
-"267 33 OFFCURVE",
-"247 9 OFFCURVE",
-"224 9 CURVE SMOOTH"
+"61 237 OFFCURVE",
+"90 268 OFFCURVE",
+"90 307 CURVE SMOOTH",
+"90 347 OFFCURVE",
+"61 378 OFFCURVE",
+"24 378 CURVE SMOOTH",
+"-10 378 OFFCURVE",
+"-40 347 OFFCURVE",
+"-40 307 CURVE SMOOTH",
+"-40 268 OFFCURVE",
+"-10 237 OFFCURVE",
+"24 237 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"244 17 OFFCURVE",
-"261 37 OFFCURVE",
-"261 61 CURVE SMOOTH",
-"261 88 OFFCURVE",
-"244 106 OFFCURVE",
+"-5 255 OFFCURVE",
+"-27 279 OFFCURVE",
+"-27 307 CURVE SMOOTH",
+"-27 338 OFFCURVE",
+"-5 361 OFFCURVE",
+"24 361 CURVE SMOOTH",
+"52 361 OFFCURVE",
+"77 338 OFFCURVE",
+"77 307 CURVE SMOOTH",
+"77 279 OFFCURVE",
+"52 255 OFFCURVE",
+"24 255 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"249 263 OFFCURVE",
+"271 283 OFFCURVE",
+"271 307 CURVE SMOOTH",
+"271 332 OFFCURVE",
+"249 352 OFFCURVE",
+"224 352 CURVE SMOOTH",
+"200 352 OFFCURVE",
+"179 332 OFFCURVE",
+"179 307 CURVE SMOOTH",
+"179 283 OFFCURVE",
+"200 263 OFFCURVE",
+"224 263 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"249 17 OFFCURVE",
+"271 37 OFFCURVE",
+"271 61 CURVE SMOOTH",
+"271 88 OFFCURVE",
+"249 106 OFFCURVE",
 "224 106 CURVE SMOOTH",
-"205 106 OFFCURVE",
-"189 88 OFFCURVE",
-"189 61 CURVE SMOOTH",
-"189 37 OFFCURVE",
-"205 17 OFFCURVE",
+"200 106 OFFCURVE",
+"179 88 OFFCURVE",
+"179 61 CURVE SMOOTH",
+"179 37 OFFCURVE",
+"200 17 OFFCURVE",
 "224 17 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"201 255 OFFCURVE",
-"183 279 OFFCURVE",
-"183 307 CURVE SMOOTH",
-"183 338 OFFCURVE",
-"201 361 OFFCURVE",
-"224 361 CURVE SMOOTH",
-"247 361 OFFCURVE",
-"267 338 OFFCURVE",
-"267 307 CURVE SMOOTH",
-"267 279 OFFCURVE",
-"247 255 OFFCURVE",
-"224 255 CURVE SMOOTH"
+"260.998 242 OFFCURVE",
+"292 271.544 OFFCURVE",
+"292 307 CURVE SMOOTH",
+"292 343.205 OFFCURVE",
+"261.241 373 OFFCURVE",
+"224 373 CURVE SMOOTH",
+"187.795 373 OFFCURVE",
+"158 343.205 OFFCURVE",
+"158 307 CURVE SMOOTH",
+"158 271.547 OFFCURVE",
+"188.033 242 OFFCURVE",
+"224 242 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"244 263 OFFCURVE",
-"261 283 OFFCURVE",
-"261 307 CURVE SMOOTH",
-"261 332 OFFCURVE",
-"244 352 OFFCURVE",
-"224 352 CURVE SMOOTH",
-"205 352 OFFCURVE",
-"189 332 OFFCURVE",
-"189 307 CURVE SMOOTH",
-"189 283 OFFCURVE",
-"205 263 OFFCURVE",
-"224 263 CURVE SMOOTH"
+"195.842 256 OFFCURVE",
+"172 279.364 OFFCURVE",
+"172 307 CURVE SMOOTH",
+"172 335.393 OFFCURVE",
+"195.607 359 OFFCURVE",
+"224 359 CURVE SMOOTH",
+"253.435 359 OFFCURVE",
+"278 335.382 OFFCURVE",
+"278 307 CURVE SMOOTH",
+"278 279.375 OFFCURVE",
+"253.192 256 OFFCURVE",
+"224 256 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"260.998 -4 OFFCURVE",
+"292 25.544 OFFCURVE",
+"292 61 CURVE SMOOTH",
+"292 98.219 OFFCURVE",
+"262.285 127 OFFCURVE",
+"224 127 CURVE SMOOTH",
+"186.791 127 OFFCURVE",
+"158 98.209 OFFCURVE",
+"158 61 CURVE SMOOTH",
+"158 25.547 OFFCURVE",
+"188.033 -4 OFFCURVE",
+"224 -4 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"195.842 10 OFFCURVE",
+"172 33.364 OFFCURVE",
+"172 61 CURVE SMOOTH",
+"172 90.398 OFFCURVE",
+"194.602 113 OFFCURVE",
+"224 113 CURVE SMOOTH",
+"254.484 113 OFFCURVE",
+"278 90.392 OFFCURVE",
+"278 61 CURVE SMOOTH",
+"278 33.375 OFFCURVE",
+"253.192 10 OFFCURVE",
+"224 10 CURVE SMOOTH"
 );
 }
 );
+};
+components = (
+{
+name = period.ss01;
+},
+{
+name = period.ss01;
+transform = "{1, 0, 0, 1, 0, 246}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 1 value pushed */\01272 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01248 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01248 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01248 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDRP[11100]	/* MoveDirectRelPt */\012NPUSHW[ ]	/* 3 values pushed */\012144 0 1 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 3 values pushed */\012176 0 1 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 7 values pushed */\012208 0 224 0 240 0 3 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 7 values pushed */\01280 0 96 0 112 0 3 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 3 values pushed */\01248 0 1 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 3 values pushed */\01216 0 1 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 2 values pushed */\0126 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01248 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\0126 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01218 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01224 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01236 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01242 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01242 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01254 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01248 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01260 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01254 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01266 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01254 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01273 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01269 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01269 7 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 4 values pushed */\01263 4 21 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\0123 1 9 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01239 4 33 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01269 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01215 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012NPUSHW[ ]	/* 9 values pushed */\0127 15 23 15 39 15 55 15 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01251 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01257 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
@@ -63883,10 +64637,10 @@ note = colon.tabular;
 {
 color = 4;
 glyphname = semicolon.ss01;
-lastChange = "2021-12-07 22:40:27 +0000";
+lastChange = "2022-01-20 21:04:49 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -64028,6 +64782,17 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = comma.ss01;
+},
+{
+name = period.ss01;
+transform = "{1, 0, 0, 1, 4, 246}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01225 6 95 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0126 25 22 25 38 25 54 25 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01219 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01212 95 25 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01253 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01253 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01259 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01259 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01269 95 25 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01275 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01275 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01295 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01280 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01280 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012101 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01286 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01286 \012MDAP[1]	/* MoveDirectAbsPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 values pushed */\01222 4 94 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\0123 1 9 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01236 4 56 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01212 94 22 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\01269 94 22 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01294 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01283 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01298 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012104 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
@@ -64039,7 +64804,7 @@ note = semicolon.tabular;
 {
 color = 4;
 glyphname = exclam.ss01;
-lastChange = "2021-12-07 22:40:27 +0000";
+lastChange = "2022-01-20 21:06:59 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -64047,81 +64812,81 @@ paths = (
 {
 closed = 1;
 nodes = (
-"257 -10 OFFCURVE",
-"283 20 OFFCURVE",
-"283 63 CURVE SMOOTH",
-"283 86 OFFCURVE",
-"276 104 OFFCURVE",
-"262 118 CURVE",
-"265 118 LINE",
-"285 261 LINE",
-"298 497 LINE",
-"152 497 LINE",
-"166 260 LINE",
-"185 118 LINE",
-"187 118 LINE",
-"173 104 OFFCURVE",
-"166 86 OFFCURVE",
-"166 63 CURVE SMOOTH",
-"166 20 OFFCURVE",
-"192 -10 OFFCURVE",
-"224 -10 CURVE SMOOTH"
+"262 -4 OFFCURVE",
+"292 24 OFFCURVE",
+"292 64 CURVE SMOOTH",
+"292 87 OFFCURVE",
+"284 104 OFFCURVE",
+"269 117 CURVE",
+"272 117 LINE",
+"292 260 LINE",
+"305 496 LINE",
+"145 496 LINE",
+"159 259 LINE",
+"178 117 LINE",
+"180 117 LINE",
+"165 104 OFFCURVE",
+"157 87 OFFCURVE",
+"157 64 CURVE SMOOTH",
+"157 24 OFFCURVE",
+"187 -4 OFFCURVE",
+"224 -4 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"200 8 OFFCURVE",
-"181 31 OFFCURVE",
-"181 63 CURVE SMOOTH",
-"181 92 OFFCURVE",
-"200 117 OFFCURVE",
-"224 117 CURVE SMOOTH",
-"251 117 OFFCURVE",
-"269 92 OFFCURVE",
-"269 63 CURVE SMOOTH",
-"269 31 OFFCURVE",
-"251 8 OFFCURVE",
-"224 8 CURVE SMOOTH"
+"195 11 OFFCURVE",
+"172 33 OFFCURVE",
+"172 64 CURVE SMOOTH",
+"172 93 OFFCURVE",
+"195 116 OFFCURVE",
+"224 116 CURVE SMOOTH",
+"256 116 OFFCURVE",
+"278 93 OFFCURVE",
+"278 64 CURVE SMOOTH",
+"278 33 OFFCURVE",
+"256 11 OFFCURVE",
+"224 11 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"245 17 OFFCURVE",
-"262 36 OFFCURVE",
-"262 63 CURVE SMOOTH",
-"262 88 OFFCURVE",
-"245 108 OFFCURVE",
-"224 108 CURVE SMOOTH",
-"204 108 OFFCURVE",
-"188 88 OFFCURVE",
-"188 63 CURVE SMOOTH",
-"188 36 OFFCURVE",
-"204 17 OFFCURVE",
-"224 17 CURVE SMOOTH"
+"173 263 LINE",
+"160 478 LINE",
+"290 478 LINE",
+"278 264 LINE",
+"260 135 LINE",
+"190 135 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"180 264 LINE",
-"167 479 LINE",
-"283 479 LINE",
-"271 265 LINE",
-"253 136 LINE",
-"197 136 LINE"
+"250 18 OFFCURVE",
+"271 37 OFFCURVE",
+"271 64 CURVE SMOOTH",
+"271 89 OFFCURVE",
+"250 109 OFFCURVE",
+"224 109 CURVE SMOOTH",
+"199 109 OFFCURVE",
+"179 89 OFFCURVE",
+"179 64 CURVE SMOOTH",
+"179 37 OFFCURVE",
+"199 18 OFFCURVE",
+"224 18 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"247 145 LINE",
-"264 267 LINE",
-"276 470 LINE",
-"175 470 LINE",
-"187 266 LINE",
-"204 145 LINE"
+"254 141 LINE",
+"270 266 LINE",
+"283 469 LINE",
+"168 469 LINE",
+"181 265 LINE",
+"196 141 LINE"
 );
 }
 );
@@ -64136,10 +64901,10 @@ note = exclam.tabular;
 {
 color = 4;
 glyphname = exclamdown.ss01;
-lastChange = "2021-12-07 22:40:27 +0000";
+lastChange = "2022-01-20 21:07:20 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -64222,6 +64987,14 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = exclam.ss01;
+transform = "{1, 0, 0, -1, 0, 498}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01218 6 24 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0122 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0122 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0123 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012MDAP[1]	/* MoveDirectAbsPt */\012NPUSHW[ ]	/* 9 values pushed */\0129 24 25 24 41 24 57 24 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0124 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0125 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDAP[1]	/* MoveDirectAbsPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01241 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01241 7 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 4 values pushed */\01215 1 9 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01250 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
@@ -64233,10 +65006,10 @@ note = exclamdown.tabular;
 {
 color = 4;
 glyphname = question.ss01;
-lastChange = "2021-12-07 22:40:27 +0000";
+lastChange = "2022-01-20 21:10:48 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -64391,6 +65164,152 @@ nodes = (
 );
 }
 );
+};
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+paths = (
+{
+closed = 1;
+nodes = (
+"248 -8 OFFCURVE",
+"278 21 OFFCURVE",
+"278 63 CURVE SMOOTH",
+"278 79 OFFCURVE",
+"273 94 OFFCURVE",
+"264 107 CURVE",
+"280 107 LINE",
+"280 195 LINE",
+"288 196 OFFCURVE",
+"296 198 OFFCURVE",
+"303 201 CURVE",
+"301 201 LINE",
+"359 224 OFFCURVE",
+"377 292 OFFCURVE",
+"377 351 CURVE SMOOTH",
+"377 467 OFFCURVE",
+"340 506 OFFCURVE",
+"224 506 CURVE SMOOTH",
+"123 506 OFFCURVE",
+"73 461 OFFCURVE",
+"73 372 CURVE SMOOTH",
+"73 284 LINE",
+"190 284 LINE",
+"187 278 OFFCURVE",
+"180 274 OFFCURVE",
+"160 274 CURVE",
+"134 254 LINE",
+"134 107 LINE",
+"153 107 LINE",
+"144 93 OFFCURVE",
+"140 78 OFFCURVE",
+"140 63 CURVE SMOOTH",
+"140 21 OFFCURVE",
+"169 -8 OFFCURVE",
+"208 -8 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"179 8 OFFCURVE",
+"156 31 OFFCURVE",
+"156 63 CURVE SMOOTH",
+"156 92 OFFCURVE",
+"179 117 OFFCURVE",
+"208 117 CURVE SMOOTH",
+"239 117 OFFCURVE",
+"262 92 OFFCURVE",
+"262 63 CURVE SMOOTH",
+"262 31 OFFCURVE",
+"239 8 OFFCURVE",
+"208 8 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"151 254 LINE",
+"160 262 LINE",
+"192 262 OFFCURVE",
+"228 284 OFFCURVE",
+"228 323 CURVE SMOOTH",
+"228 372 LINE SMOOTH",
+"228 384 OFFCURVE",
+"226 386 OFFCURVE",
+"222 386 CURVE SMOOTH",
+"218 386 OFFCURVE",
+"217 381 OFFCURVE",
+"217 372 CURVE SMOOTH",
+"217 299 LINE",
+"90 299 LINE",
+"90 372 LINE SMOOTH",
+"90 449 OFFCURVE",
+"135 488 OFFCURVE",
+"224 488 CURVE SMOOTH",
+"328 488 OFFCURVE",
+"360 452 OFFCURVE",
+"360 351 CURVE SMOOTH",
+"360 298 OFFCURVE",
+"347 236 OFFCURVE",
+"295 218 CURVE",
+"296 218 LINE",
+"287 213 OFFCURVE",
+"274 211 OFFCURVE",
+"263 211 CURVE",
+"263 125 LINE",
+"151 125 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"233 17 OFFCURVE",
+"253 36 OFFCURVE",
+"253 63 CURVE SMOOTH",
+"253 88 OFFCURVE",
+"233 108 OFFCURVE",
+"208 108 CURVE SMOOTH",
+"184 108 OFFCURVE",
+"165 88 OFFCURVE",
+"165 63 CURVE SMOOTH",
+"165 36 OFFCURVE",
+"184 17 OFFCURVE",
+"208 17 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"255 133 LINE",
+"255 219 LINE",
+"262 219 OFFCURVE",
+"282 221 OFFCURVE",
+"293 226 CURVE",
+"339 244 OFFCURVE",
+"352 302 OFFCURVE",
+"352 351 CURVE SMOOTH",
+"352 444 OFFCURVE",
+"321 479 OFFCURVE",
+"224 479 CURVE SMOOTH",
+"140 479 OFFCURVE",
+"98 443 OFFCURVE",
+"98 372 CURVE SMOOTH",
+"98 308 LINE",
+"208 308 LINE",
+"208 367 LINE SMOOTH",
+"208 388 OFFCURVE",
+"212 395 OFFCURVE",
+"223 395 CURVE SMOOTH",
+"233 395 OFFCURVE",
+"237 388 OFFCURVE",
+"237 367 CURVE SMOOTH",
+"237 323 LINE SMOOTH",
+"237 280 OFFCURVE",
+"198 254 OFFCURVE",
+"160 254 CURVE",
+"160 133 LINE"
+);
+}
+);
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01213 6 96 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01220 6 77 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01220 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\0126 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01214 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 3 values pushed */\01291 96 13 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01291 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 2 values pushed */\01237 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01228 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01228 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01237 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01230 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01231 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01231 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01243 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01243 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01214 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01284 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01291 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01288 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01288 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01290 96 13 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012104 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012117 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012113 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012113 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012115 77 20 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01220 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012124 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 values pushed */\01234 4 120 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01217 2 9 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01276 4 52 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01213 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01276 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01229 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01240 1 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 2 values pushed */\01257 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01290 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01290 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01295 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01293 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01293 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01299 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012114 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012114 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012115 120 34 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
@@ -64402,10 +65321,10 @@ note = question.tabular;
 {
 color = 4;
 glyphname = questiondown.ss01;
-lastChange = "2021-12-07 22:40:27 +0000";
+lastChange = "2022-01-20 21:11:11 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -64558,6 +65477,14 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = question.ss01;
+transform = "{-1, 0, 0, -1, 450, 498}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\0124 6 104 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01213 6 83 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01211 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01221 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 3 values pushed */\012116 104 4 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\012116 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 2 values pushed */\01231 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 2 values pushed */\01238 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01229 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01229 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01231 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01232 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01232 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01231 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01277 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01238 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01291 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01288 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01288 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01290 83 13 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\01295 116 31 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01211 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01297 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012116 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012112 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012112 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012114 104 4 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012123 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 values pushed */\0127 4 99 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01241 1 35 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0127 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01216 2 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 2 values pushed */\01211 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01241 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01258 3 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01253 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01253 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 2 values pushed */\01276 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 2 values pushed */\01231 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01253 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01257 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01257 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01235 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01290 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01290 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01216 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01295 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01293 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01293 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01235 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012113 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012113 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012114 35 41 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01235 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012119 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
@@ -66756,12 +67683,13 @@ unicode = 201E;
 },
 {
 glyphname = quotedblleft;
-lastChange = "2021-12-17 04:58:44 +0000";
+lastChange = "2022-01-20 21:12:26 +0000";
 layers = (
 {
 components = (
 {
 name = quoteleft;
+transform = "{1, 0, 0, 1, 161, 0}";
 },
 {
 name = quoteleft;
@@ -66771,30 +67699,30 @@ layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01227 6 33 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\0125 6 11 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0129 11 25 11 41 11 57 11 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 9 values pushed */\0126 27 22 27 38 27 54 27 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\01233 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01284 5 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 3 values pushed */\01241 33 84 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\01247 33 84 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012102 33 84 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012128 33 84 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012131 33 84 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\0125 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012135 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 3 values pushed */\01216 19 3 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01238 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01238 \012MDAP[1]	/* MoveDirectAbsPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 192;
+width = 371;
 }
 );
+leftMetricsKey = quoteleft;
 note = quotedblleft;
+rightMetricsKey = quoteleft;
 unicode = 201C;
 },
 {
 glyphname = quotedblright;
-lastChange = "2021-12-17 04:58:44 +0000";
+lastChange = "2022-01-20 21:12:48 +0000";
 layers = (
 {
 components = (
 {
-name = quoteright;
-},
-{
-name = quoteright;
+name = quotedblleft;
+transform = "{-1, 0, 0, -1, 371, 868}";
 }
 );
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01233 5 19 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0129 19 25 19 41 19 57 19 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 3 values pushed */\0125 19 33 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\0125 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 2 values pushed */\01211 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01227 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 3 values pushed */\01241 19 33 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\01247 19 33 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01284 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01284 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012102 19 33 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012131 19 33 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\012134 19 33 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01233 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012138 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 3 values pushed */\01219 16 3 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01216 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01238 \012MDRP[10000]	/* MoveDirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 192;
+width = 371;
 }
 );
 note = quotedblright;
@@ -66802,7 +67730,7 @@ unicode = 201D;
 },
 {
 glyphname = quoteleft;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-20 21:12:14 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -66810,86 +67738,86 @@ paths = (
 {
 closed = 1;
 nodes = (
-"131 316 OFFCURVE",
-"155 347 OFFCURVE",
-"155 386 CURVE SMOOTH",
-"155 411 OFFCURVE",
-"144 421 OFFCURVE",
-"133 434 CURVE SMOOTH",
+"150 316 OFFCURVE",
+"174 347 OFFCURVE",
+"174 386 CURVE SMOOTH",
+"174 411 OFFCURVE",
+"163 421 OFFCURVE",
+"152 434 CURVE SMOOTH",
+"148 438 OFFCURVE",
+"143 441 OFFCURVE",
+"143 448 CURVE SMOOTH",
+"144 467 OFFCURVE",
+"171 500 OFFCURVE",
+"200 521 CURVE",
+"181 534 OFFCURVE",
+"167 543 OFFCURVE",
+"158 547 CURVE SMOOTH",
+"149 550 OFFCURVE",
+"141 552 OFFCURVE",
+"136 552 CURVE SMOOTH",
+"75 552 OFFCURVE",
+"24 450 OFFCURVE",
+"30 390 CURVE SMOOTH",
+"33 349 OFFCURVE",
+"53 316 OFFCURVE",
+"103 316 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"60 332 OFFCURVE",
+"47 362 OFFCURVE",
+"44 391 CURVE SMOOTH",
+"41 445 OFFCURVE",
+"81 536 OFFCURVE",
+"136 536 CURVE SMOOTH",
+"145 536 OFFCURVE",
+"156 533 OFFCURVE",
+"173 521 CURVE",
+"150 505 OFFCURVE",
+"130 474 OFFCURVE",
+"129 449 CURVE SMOOTH",
 "129 438 OFFCURVE",
-"124 441 OFFCURVE",
-"124 448 CURVE SMOOTH",
-"125 467 OFFCURVE",
-"152 500 OFFCURVE",
-"181 521 CURVE",
-"162 534 OFFCURVE",
-"148 543 OFFCURVE",
-"139 547 CURVE SMOOTH",
-"130 550 OFFCURVE",
-"122 552 OFFCURVE",
-"117 552 CURVE SMOOTH",
-"56 552 OFFCURVE",
-"5 450 OFFCURVE",
-"11 390 CURVE SMOOTH",
-"14 349 OFFCURVE",
-"34 316 OFFCURVE",
-"84 316 CURVE SMOOTH"
+"135 430 OFFCURVE",
+"142 423 CURVE",
+"150 412 OFFCURVE",
+"160 403 OFFCURVE",
+"160 386 CURVE SMOOTH",
+"160 355 OFFCURVE",
+"140 332 OFFCURVE",
+"103 332 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"41 332 OFFCURVE",
-"28 362 OFFCURVE",
-"25 391 CURVE SMOOTH",
-"22 445 OFFCURVE",
-"62 536 OFFCURVE",
-"117 536 CURVE SMOOTH",
-"126 536 OFFCURVE",
-"137 533 OFFCURVE",
-"154 521 CURVE",
-"131 505 OFFCURVE",
-"111 474 OFFCURVE",
-"110 449 CURVE SMOOTH",
-"110 438 OFFCURVE",
-"116 430 OFFCURVE",
-"123 423 CURVE",
-"131 412 OFFCURVE",
-"141 403 OFFCURVE",
-"141 386 CURVE SMOOTH",
-"141 355 OFFCURVE",
-"121 332 OFFCURVE",
-"84 332 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"116 340 OFFCURVE",
-"134 359 OFFCURVE",
-"134 386 CURVE SMOOTH",
-"134 411 OFFCURVE",
-"103 424 OFFCURVE",
-"103 449 CURVE SMOOTH",
-"103 476 OFFCURVE",
-"122 506 OFFCURVE",
-"142 521 CURVE",
-"134 528 OFFCURVE",
-"125 528 OFFCURVE",
-"117 528 CURVE SMOOTH",
-"66 528 OFFCURVE",
-"29 441 OFFCURVE",
-"32 391 CURVE SMOOTH",
-"35 366 OFFCURVE",
-"45 340 OFFCURVE",
-"84 340 CURVE SMOOTH"
+"135 340 OFFCURVE",
+"153 359 OFFCURVE",
+"153 386 CURVE SMOOTH",
+"153 411 OFFCURVE",
+"122 424 OFFCURVE",
+"122 449 CURVE SMOOTH",
+"122 476 OFFCURVE",
+"141 506 OFFCURVE",
+"161 521 CURVE",
+"153 528 OFFCURVE",
+"144 528 OFFCURVE",
+"136 528 CURVE SMOOTH",
+"85 528 OFFCURVE",
+"48 441 OFFCURVE",
+"51 391 CURVE SMOOTH",
+"54 366 OFFCURVE",
+"64 340 OFFCURVE",
+"103 340 CURVE SMOOTH"
 );
 }
 );
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\0125 6 11 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0126 5 22 5 38 5 54 5 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\01211 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01219 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01211 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDAP[1]	/* MoveDirectAbsPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 3 values pushed */\01216 19 3 \012CALL[ ]	/* CallFunction */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 192;
+width = 210;
 }
 );
 note = quoteleft;
@@ -66897,7 +67825,7 @@ unicode = 2018;
 },
 {
 glyphname = quoteright;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-20 21:12:57 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -66905,89 +67833,89 @@ paths = (
 {
 closed = 1;
 nodes = (
-"138 316 OFFCURVE",
-"184 418 OFFCURVE",
-"181 478 CURVE SMOOTH",
-"178 519 OFFCURVE",
-"158 552 OFFCURVE",
-"108 552 CURVE SMOOTH",
-"61 552 OFFCURVE",
-"37 521 OFFCURVE",
-"37 482 CURVE SMOOTH",
-"37 458 OFFCURVE",
-"47 446 OFFCURVE",
-"58 433 CURVE SMOOTH",
-"60 430 OFFCURVE",
-"62 427 OFFCURVE",
-"64 425 CURVE SMOOTH",
-"66 423 OFFCURVE",
-"67 421 OFFCURVE",
-"68 419 CURVE",
-"67 400 OFFCURVE",
-"40 369 OFFCURVE",
-"11 346 CURVE",
-"30 333 OFFCURVE",
-"44 325 OFFCURVE",
-"53 322 CURVE SMOOTH",
-"62 318 OFFCURVE",
-"70 316 OFFCURVE",
-"75 316 CURVE SMOOTH"
+"137 316 OFFCURVE",
+"183 418 OFFCURVE",
+"180 478 CURVE SMOOTH",
+"177 519 OFFCURVE",
+"157 552 OFFCURVE",
+"107 552 CURVE SMOOTH",
+"60 552 OFFCURVE",
+"36 521 OFFCURVE",
+"36 482 CURVE SMOOTH",
+"36 458 OFFCURVE",
+"46 446 OFFCURVE",
+"57 433 CURVE SMOOTH",
+"59 430 OFFCURVE",
+"61 427 OFFCURVE",
+"63 425 CURVE SMOOTH",
+"65 423 OFFCURVE",
+"66 421 OFFCURVE",
+"67 419 CURVE",
+"66 400 OFFCURVE",
+"39 369 OFFCURVE",
+"10 346 CURVE",
+"29 333 OFFCURVE",
+"43 325 OFFCURVE",
+"52 322 CURVE SMOOTH",
+"61 318 OFFCURVE",
+"69 316 OFFCURVE",
+"74 316 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"66 332 OFFCURVE",
-"55 334 OFFCURVE",
-"38 346 CURVE",
-"61 363 OFFCURVE",
-"81 394 OFFCURVE",
-"82 419 CURVE SMOOTH",
-"82 430 OFFCURVE",
-"75 436 OFFCURVE",
-"68 444 CURVE SMOOTH",
-"59 455 OFFCURVE",
-"51 463 OFFCURVE",
-"51 482 CURVE SMOOTH",
-"51 513 OFFCURVE",
-"71 536 OFFCURVE",
-"108 536 CURVE SMOOTH",
-"150 536 OFFCURVE",
-"164 508 OFFCURVE",
-"167 477 CURVE SMOOTH",
-"170 423 OFFCURVE",
-"130 332 OFFCURVE",
-"75 332 CURVE SMOOTH"
+"65 332 OFFCURVE",
+"54 334 OFFCURVE",
+"37 346 CURVE",
+"60 363 OFFCURVE",
+"80 394 OFFCURVE",
+"81 419 CURVE SMOOTH",
+"81 430 OFFCURVE",
+"74 436 OFFCURVE",
+"67 444 CURVE SMOOTH",
+"58 455 OFFCURVE",
+"50 463 OFFCURVE",
+"50 482 CURVE SMOOTH",
+"50 513 OFFCURVE",
+"70 536 OFFCURVE",
+"107 536 CURVE SMOOTH",
+"149 536 OFFCURVE",
+"163 508 OFFCURVE",
+"166 477 CURVE SMOOTH",
+"169 423 OFFCURVE",
+"129 332 OFFCURVE",
+"74 332 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"125 340 OFFCURVE",
-"163 425 OFFCURVE",
-"160 476 CURVE SMOOTH",
-"157 501 OFFCURVE",
-"147 528 OFFCURVE",
-"108 528 CURVE SMOOTH",
-"76 528 OFFCURVE",
-"58 507 OFFCURVE",
-"58 482 CURVE SMOOTH",
-"58 457 OFFCURVE",
-"89 444 OFFCURVE",
-"89 419 CURVE SMOOTH",
-"89 391 OFFCURVE",
-"70 361 OFFCURVE",
-"50 346 CURVE",
-"58 339 OFFCURVE",
-"67 340 OFFCURVE",
-"75 340 CURVE SMOOTH"
+"124 340 OFFCURVE",
+"162 425 OFFCURVE",
+"159 476 CURVE SMOOTH",
+"156 501 OFFCURVE",
+"146 528 OFFCURVE",
+"107 528 CURVE SMOOTH",
+"75 528 OFFCURVE",
+"57 507 OFFCURVE",
+"57 482 CURVE SMOOTH",
+"57 457 OFFCURVE",
+"88 444 OFFCURVE",
+"88 419 CURVE SMOOTH",
+"88 391 OFFCURVE",
+"69 361 OFFCURVE",
+"49 346 CURVE",
+"57 339 OFFCURVE",
+"66 340 OFFCURVE",
+"74 340 CURVE SMOOTH"
 );
 }
 );
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01211 6 19 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01211 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\0125 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012NPUSHW[ ]	/* 9 values pushed */\0129 19 25 19 41 19 57 19 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\01211 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01241 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01241 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01211 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01273 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 3 values pushed */\01219 16 3 \012CALL[ ]	/* CallFunction */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 192;
+width = 210;
 }
 );
 note = quoteright;
@@ -68418,183 +69346,377 @@ note = bracketright.smcap;
 },
 {
 glyphname = period.sc;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-20 21:15:36 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"88 -6 OFFCURVE",
+"113 17 OFFCURVE",
+"113 45 CURVE SMOOTH",
+"113 74 OFFCURVE",
+"88 97 OFFCURVE",
+"57 97 CURVE SMOOTH",
+"28 97 OFFCURVE",
+"3 74 OFFCURVE",
+"3 45 CURVE SMOOTH",
+"3 17 OFFCURVE",
+"28 -6 OFFCURVE",
+"57 -6 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"34 6 OFFCURVE",
+"16 24 OFFCURVE",
+"16 45 CURVE SMOOTH",
+"16 68 OFFCURVE",
+"34 84 OFFCURVE",
+"57 84 CURVE SMOOTH",
+"80 84 OFFCURVE",
+"100 68 OFFCURVE",
+"100 45 CURVE SMOOTH",
+"100 24 OFFCURVE",
+"80 6 OFFCURVE",
+"57 6 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"77 13 OFFCURVE",
+"93 26 OFFCURVE",
+"93 45 CURVE SMOOTH",
+"93 64 OFFCURVE",
+"77 78 OFFCURVE",
+"57 78 CURVE SMOOTH",
+"38 78 OFFCURVE",
+"22 64 OFFCURVE",
+"22 45 CURVE SMOOTH",
+"22 26 OFFCURVE",
+"38 13 OFFCURVE",
+"57 13 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"91 17 OFFCURVE",
+"113 37 OFFCURVE",
+"113 61 CURVE SMOOTH",
+"113 86 OFFCURVE",
+"91 106 OFFCURVE",
+"66 106 CURVE SMOOTH",
+"42 106 OFFCURVE",
+"21 86 OFFCURVE",
+"21 61 CURVE SMOOTH",
+"21 37 OFFCURVE",
+"42 17 OFFCURVE",
+"66 17 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"103 -4 OFFCURVE",
+"134 26 OFFCURVE",
+"134 61 CURVE SMOOTH",
+"134 97 OFFCURVE",
+"103 127 OFFCURVE",
+"66 127 CURVE SMOOTH",
+"30 127 OFFCURVE",
+"0 97 OFFCURVE",
+"0 61 CURVE SMOOTH",
+"0 26 OFFCURVE",
+"30 -4 OFFCURVE",
+"66 -4 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"38 10 OFFCURVE",
+"14 33 OFFCURVE",
+"14 61 CURVE SMOOTH",
+"14 89 OFFCURVE",
+"38 113 OFFCURVE",
+"66 113 CURVE SMOOTH",
+"95 113 OFFCURVE",
+"120 89 OFFCURVE",
+"120 61 CURVE SMOOTH",
+"120 33 OFFCURVE",
+"95 10 OFFCURVE",
+"66 10 CURVE SMOOTH"
+);
+}
+);
+};
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 paths = (
 {
 closed = 1;
 nodes = (
-"96 -6 OFFCURVE",
-"121 17 OFFCURVE",
-"121 45 CURVE SMOOTH",
-"121 74 OFFCURVE",
-"96 97 OFFCURVE",
-"65 97 CURVE SMOOTH",
-"36 97 OFFCURVE",
-"11 74 OFFCURVE",
-"11 45 CURVE SMOOTH",
-"11 17 OFFCURVE",
-"36 -6 OFFCURVE",
-"65 -6 CURVE SMOOTH"
+"87 21 OFFCURVE",
+"105 38 OFFCURVE",
+"105 58 CURVE SMOOTH",
+"105 79 OFFCURVE",
+"87 96 OFFCURVE",
+"66 96 CURVE SMOOTH",
+"46 96 OFFCURVE",
+"29 79 OFFCURVE",
+"29 58 CURVE SMOOTH",
+"29 38 OFFCURVE",
+"46 21 OFFCURVE",
+"66 21 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"42 6 OFFCURVE",
-"24 24 OFFCURVE",
-"24 45 CURVE SMOOTH",
-"24 68 OFFCURVE",
-"42 84 OFFCURVE",
-"65 84 CURVE SMOOTH",
-"88 84 OFFCURVE",
-"108 68 OFFCURVE",
-"108 45 CURVE SMOOTH",
-"108 24 OFFCURVE",
-"88 6 OFFCURVE",
-"65 6 CURVE SMOOTH"
+"99 0 OFFCURVE",
+"126 26 OFFCURVE",
+"126 58 CURVE SMOOTH",
+"126 90 OFFCURVE",
+"99 117 OFFCURVE",
+"66 117 CURVE SMOOTH",
+"34 117 OFFCURVE",
+"8 90 OFFCURVE",
+"8 58 CURVE SMOOTH",
+"8 26 OFFCURVE",
+"34 0 OFFCURVE",
+"66 0 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"85 13 OFFCURVE",
-"101 26 OFFCURVE",
-"101 45 CURVE SMOOTH",
-"101 64 OFFCURVE",
-"85 78 OFFCURVE",
-"65 78 CURVE SMOOTH",
-"46 78 OFFCURVE",
-"30 64 OFFCURVE",
-"30 45 CURVE SMOOTH",
-"30 26 OFFCURVE",
-"46 13 OFFCURVE",
-"65 13 CURVE SMOOTH"
+"42 14 OFFCURVE",
+"22 34 OFFCURVE",
+"22 58 CURVE SMOOTH",
+"22 83 OFFCURVE",
+"42 103 OFFCURVE",
+"66 103 CURVE SMOOTH",
+"91 103 OFFCURVE",
+"112 83 OFFCURVE",
+"112 58 CURVE SMOOTH",
+"112 34 OFFCURVE",
+"91 14 OFFCURVE",
+"66 14 CURVE SMOOTH"
 );
 }
 );
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\0126 6 24 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0126 6 22 6 38 6 54 6 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\0120 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01218 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01230 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01233 7 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 2 values pushed */\0123 2 \012MIRP[10100]	/* MoveIndirectRelPt */\012NPUSHW[ ]	/* 15 values pushed */\0127 3 23 3 39 3 55 3 71 3 87 3 103 3 7 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012NPUSHW[ ]	/* 5 values pushed */\012118 3 134 3 2 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 2 values pushed */\0129 2 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01215 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01215 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01221 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01221 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01227 2 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 139;
+width = 134;
 }
 );
 note = period.smcap;
 },
 {
 glyphname = comma.sc;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-20 21:15:49 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"72 -89 LINE",
+"77 -80 OFFCURVE",
+"82 -70 OFFCURVE",
+"88 -59 CURVE SMOOTH",
+"97 -42 OFFCURVE",
+"106 -19 OFFCURVE",
+"113 2 CURVE SMOOTH",
+"117 17 OFFCURVE",
+"122 39 OFFCURVE",
+"122 54 CURVE SMOOTH",
+"122 93 OFFCURVE",
+"100 120 OFFCURVE",
+"68 120 CURVE SMOOTH",
+"36 120 OFFCURVE",
+"12 92 OFFCURVE",
+"12 56 CURVE SMOOTH",
+"12 41 OFFCURVE",
+"22 20 OFFCURVE",
+"32 9 CURVE SMOOTH",
+"33 8 LINE",
+"33 4 LINE SMOOTH",
+"33 -1 OFFCURVE",
+"32 -5 OFFCURVE",
+"31 -10 CURVE SMOOTH",
+"27 -23 LINE",
+"28 -20 LINE",
+"1 -89 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 -27 LINE",
+"40 -28 LINE",
+"42 -19 OFFCURVE",
+"45 -7 OFFCURVE",
+"45 4 CURVE SMOOTH",
+"45 11 OFFCURVE",
+"43 17 OFFCURVE",
+"40 21 CURVE SMOOTH",
+"33 29 OFFCURVE",
+"25 44 OFFCURVE",
+"25 56 CURVE SMOOTH",
+"25 83 OFFCURVE",
+"44 104 OFFCURVE",
+"68 104 CURVE SMOOTH",
+"92 104 OFFCURVE",
+"109 83 OFFCURVE",
+"109 54 CURVE SMOOTH",
+"109 41 OFFCURVE",
+"104 22 OFFCURVE",
+"100 7 CURVE SMOOTH",
+"93 -14 OFFCURVE",
+"84 -34 OFFCURVE",
+"78 -49 CURVE SMOOTH",
+"66 -74 LINE",
+"22 -74 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"62 -66 LINE",
+"66 -59 OFFCURVE",
+"70 -52 OFFCURVE",
+"74 -44 CURVE SMOOTH",
+"80 -29 OFFCURVE",
+"88 -11 OFFCURVE",
+"95 9 CURVE SMOOTH",
+"99 24 OFFCURVE",
+"102 41 OFFCURVE",
+"102 54 CURVE SMOOTH",
+"102 78 OFFCURVE",
+"88 96 OFFCURVE",
+"68 96 CURVE SMOOTH",
+"46 96 OFFCURVE",
+"31 79 OFFCURVE",
+"31 56 CURVE SMOOTH",
+"31 45 OFFCURVE",
+"38 33 OFFCURVE",
+"45 26 CURVE SMOOTH",
+"57 11 OFFCURVE",
+"51 -11 OFFCURVE",
+"45 -30 CURVE SMOOTH",
+"32 -66 LINE"
+);
+}
+);
+};
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 paths = (
 {
 closed = 1;
 nodes = (
-"79 -89 LINE",
-"84 -80 OFFCURVE",
-"89 -70 OFFCURVE",
-"95 -59 CURVE SMOOTH",
-"104 -42 OFFCURVE",
-"113 -19 OFFCURVE",
-"120 2 CURVE SMOOTH",
-"124 17 OFFCURVE",
-"129 39 OFFCURVE",
-"129 54 CURVE SMOOTH",
-"129 93 OFFCURVE",
-"107 120 OFFCURVE",
-"75 120 CURVE SMOOTH",
-"43 120 OFFCURVE",
-"19 92 OFFCURVE",
-"19 56 CURVE SMOOTH",
-"19 41 OFFCURVE",
-"29 20 OFFCURVE",
-"39 9 CURVE SMOOTH",
-"40 8 LINE",
-"40 4 LINE SMOOTH",
-"40 -1 OFFCURVE",
-"39 -5 OFFCURVE",
-"38 -10 CURVE SMOOTH",
-"34 -23 LINE",
-"35 -20 LINE",
-"8 -89 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"47 -27 LINE",
-"47 -28 LINE",
-"49 -19 OFFCURVE",
-"52 -7 OFFCURVE",
-"52 4 CURVE SMOOTH",
-"52 11 OFFCURVE",
-"50 17 OFFCURVE",
-"47 21 CURVE SMOOTH",
-"40 29 OFFCURVE",
-"32 44 OFFCURVE",
-"32 56 CURVE SMOOTH",
-"32 83 OFFCURVE",
-"51 104 OFFCURVE",
-"75 104 CURVE SMOOTH",
-"99 104 OFFCURVE",
-"116 83 OFFCURVE",
-"116 54 CURVE SMOOTH",
-"116 41 OFFCURVE",
-"111 22 OFFCURVE",
-"107 7 CURVE SMOOTH",
-"100 -14 OFFCURVE",
-"91 -34 OFFCURVE",
-"85 -49 CURVE SMOOTH",
-"73 -74 LINE",
-"29 -74 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"69 -66 LINE",
-"73 -59 OFFCURVE",
-"77 -52 OFFCURVE",
-"81 -44 CURVE SMOOTH",
+"68 -66 LINE",
+"73 -58 OFFCURVE",
 "87 -29 OFFCURVE",
-"95 -11 OFFCURVE",
-"102 9 CURVE SMOOTH",
-"106 24 OFFCURVE",
-"109 41 OFFCURVE",
-"109 54 CURVE SMOOTH",
-"109 78 OFFCURVE",
-"95 96 OFFCURVE",
-"75 96 CURVE SMOOTH",
-"53 96 OFFCURVE",
-"38 79 OFFCURVE",
-"38 56 CURVE SMOOTH",
-"38 45 OFFCURVE",
-"45 33 OFFCURVE",
-"52 26 CURVE SMOOTH",
-"64 11 OFFCURVE",
-"58 -11 OFFCURVE",
-"52 -30 CURVE SMOOTH",
-"39 -66 LINE"
+"94 -14 CURVE SMOOTH",
+"102 5 OFFCURVE",
+"112 29 OFFCURVE",
+"112 51 CURVE SMOOTH",
+"112 77 OFFCURVE",
+"96 96 OFFCURVE",
+"71 96 CURVE SMOOTH",
+"48 96 OFFCURVE",
+"35 77 OFFCURVE",
+"35 59 CURVE SMOOTH",
+"35 44 OFFCURVE",
+"41 37 OFFCURVE",
+"47 31 CURVE SMOOTH",
+"53 24 OFFCURVE",
+"59 17 OFFCURVE",
+"59 2 CURVE SMOOTH",
+"59 -9 OFFCURVE",
+"57 -20 OFFCURVE",
+"46 -45 CURVE SMOOTH",
+"37 -66 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"6 -87 LINE",
+"80 -87 LINE",
+"88 -74 OFFCURVE",
+"102 -48 OFFCURVE",
+"113 -23 CURVE SMOOTH",
+"121 -3 OFFCURVE",
+"133 25 OFFCURVE",
+"133 51 CURVE SMOOTH",
+"133 89 OFFCURVE",
+"107 117 OFFCURVE",
+"71 117 CURVE SMOOTH",
+"39 117 OFFCURVE",
+"14 92 OFFCURVE",
+"14 59 CURVE SMOOTH",
+"14 36 OFFCURVE",
+"25 23 OFFCURVE",
+"31 17 CURVE SMOOTH",
+"37 10 OFFCURVE",
+"38 9 OFFCURVE",
+"38 2 CURVE SMOOTH",
+"38 -7 OFFCURVE",
+"35 -17 OFFCURVE",
+"27 -37 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"40 -42 LINE SMOOTH",
+"49 -20 OFFCURVE",
+"52 -9 OFFCURVE",
+"52 2 CURVE SMOOTH",
+"52 14 OFFCURVE",
+"48 19 OFFCURVE",
+"42 26 CURVE SMOOTH",
+"36 33 OFFCURVE",
+"28 41 OFFCURVE",
+"28 59 CURVE SMOOTH",
+"28 84 OFFCURVE",
+"47 103 OFFCURVE",
+"71 103 CURVE SMOOTH",
+"99 103 OFFCURVE",
+"119 82 OFFCURVE",
+"119 51 CURVE SMOOTH",
+"119 28 OFFCURVE",
+"108 2 OFFCURVE",
+"100 -17 CURVE SMOOTH",
+"91 -38 OFFCURVE",
+"79 -62 OFFCURVE",
+"72 -73 CURVE",
+"26 -73 LINE"
 );
 }
 );
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01213 6 57 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0126 13 22 13 38 13 54 13 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 3 values pushed */\0120 57 13 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\0127 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0127 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01236 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01246 57 13 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\0127 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01252 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01252 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0127 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01263 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 values pushed */\01210 4 71 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\0120 71 10 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\01246 71 10 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01271 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01260 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 148;
+width = 141;
 }
 );
 note = comma.smcap;
 },
 {
 glyphname = colon.sc;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-20 21:16:14 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -68699,20 +69821,31 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = period.sc;
+},
+{
+name = period.sc;
+transform = "{1, 0, 0, 1, 0, 236}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\0126 6 48 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0126 6 22 6 38 6 54 6 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\0120 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01218 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01224 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01236 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01242 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01242 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01254 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01248 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01260 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01254 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01266 \012MDRP[10000]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01269 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01269 7 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 4 values pushed */\01263 4 21 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\0123 1 9 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01239 4 33 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01269 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01215 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012NPUSHW[ ]	/* 9 values pushed */\0127 15 23 15 39 15 55 15 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01251 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01257 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 154;
+width = 134;
 }
 );
 note = colon.smcap;
 },
 {
 glyphname = semicolon.sc;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-20 21:16:37 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -68855,116 +69988,211 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = comma.sc;
+},
+{
+name = period.sc;
+transform = "{1, 0, 0, 1, 0, 236}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01225 6 96 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0126 25 22 25 38 25 54 25 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01219 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0120 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01212 96 25 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01234 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01225 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01254 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01254 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01260 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01260 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01270 96 25 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01275 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01275 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01296 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01281 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01281 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01219 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012102 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01287 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01287 \012MDAP[1]	/* MoveDirectAbsPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 values pushed */\01222 4 95 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\0123 1 9 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01237 4 57 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 3 values pushed */\01212 95 22 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\01270 95 22 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01295 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01284 \012MDRP[11100]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01299 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012105 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 166;
+width = 141;
 }
 );
 note = semicolon.smcap;
 },
 {
 glyphname = exclam.sc;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-20 21:17:05 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"117 -10 OFFCURVE",
+"143 20 OFFCURVE",
+"143 63 CURVE SMOOTH",
+"143 84 OFFCURVE",
+"134 105 OFFCURVE",
+"122 118 CURVE",
+"124 118 LINE",
+"144 261 LINE",
+"158 497 LINE",
+"12 497 LINE",
+"25 260 LINE",
+"45 118 LINE",
+"46 118 LINE",
+"34 105 OFFCURVE",
+"26 84 OFFCURVE",
+"26 63 CURVE SMOOTH",
+"26 20 OFFCURVE",
+"50 -10 OFFCURVE",
+"84 -10 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"58 8 OFFCURVE",
+"40 31 OFFCURVE",
+"40 63 CURVE SMOOTH",
+"40 92 OFFCURVE",
+"58 117 OFFCURVE",
+"84 117 CURVE SMOOTH",
+"109 117 OFFCURVE",
+"129 92 OFFCURVE",
+"129 63 CURVE SMOOTH",
+"129 31 OFFCURVE",
+"109 8 OFFCURVE",
+"84 8 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"105 17 OFFCURVE",
+"122 36 OFFCURVE",
+"122 63 CURVE SMOOTH",
+"122 88 OFFCURVE",
+"105 108 OFFCURVE",
+"84 108 CURVE SMOOTH",
+"62 108 OFFCURVE",
+"47 88 OFFCURVE",
+"47 63 CURVE SMOOTH",
+"47 36 OFFCURVE",
+"62 17 OFFCURVE",
+"84 17 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"39 264 LINE",
+"27 479 LINE",
+"143 479 LINE",
+"130 265 LINE",
+"112 136 LINE",
+"57 136 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"106 145 LINE",
+"123 267 LINE",
+"135 470 LINE",
+"34 470 LINE",
+"46 266 LINE",
+"63 145 LINE"
+);
+}
+);
+};
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 paths = (
 {
 closed = 1;
 nodes = (
-"120 -10 OFFCURVE",
-"146 20 OFFCURVE",
-"146 63 CURVE SMOOTH",
-"146 84 OFFCURVE",
-"137 105 OFFCURVE",
-"125 118 CURVE",
-"127 118 LINE",
-"147 261 LINE",
-"161 497 LINE",
-"15 497 LINE",
-"28 260 LINE",
-"48 118 LINE",
-"49 118 LINE",
-"37 105 OFFCURVE",
-"29 84 OFFCURVE",
-"29 63 CURVE SMOOTH",
-"29 20 OFFCURVE",
-"53 -10 OFFCURVE",
-"87 -10 CURVE SMOOTH"
+"129 -4 OFFCURVE",
+"159 24 OFFCURVE",
+"159 64 CURVE SMOOTH",
+"159 87 OFFCURVE",
+"151 104 OFFCURVE",
+"136 117 CURVE",
+"139 117 LINE",
+"159 260 LINE",
+"172 496 LINE",
+"12 496 LINE",
+"26 259 LINE",
+"45 117 LINE",
+"47 117 LINE",
+"32 104 OFFCURVE",
+"24 87 OFFCURVE",
+"24 64 CURVE SMOOTH",
+"24 24 OFFCURVE",
+"54 -4 OFFCURVE",
+"91 -4 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"61 8 OFFCURVE",
-"43 31 OFFCURVE",
-"43 63 CURVE SMOOTH",
-"43 92 OFFCURVE",
-"61 117 OFFCURVE",
-"87 117 CURVE SMOOTH",
-"112 117 OFFCURVE",
-"132 92 OFFCURVE",
-"132 63 CURVE SMOOTH",
-"132 31 OFFCURVE",
-"112 8 OFFCURVE",
-"87 8 CURVE SMOOTH"
+"62 11 OFFCURVE",
+"39 33 OFFCURVE",
+"39 64 CURVE SMOOTH",
+"39 93 OFFCURVE",
+"62 116 OFFCURVE",
+"91 116 CURVE SMOOTH",
+"123 116 OFFCURVE",
+"145 93 OFFCURVE",
+"145 64 CURVE SMOOTH",
+"145 33 OFFCURVE",
+"123 11 OFFCURVE",
+"91 11 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"108 17 OFFCURVE",
-"125 36 OFFCURVE",
-"125 63 CURVE SMOOTH",
-"125 88 OFFCURVE",
-"108 108 OFFCURVE",
-"87 108 CURVE SMOOTH",
-"65 108 OFFCURVE",
-"50 88 OFFCURVE",
-"50 63 CURVE SMOOTH",
-"50 36 OFFCURVE",
-"65 17 OFFCURVE",
-"87 17 CURVE SMOOTH"
+"40 263 LINE",
+"27 478 LINE",
+"157 478 LINE",
+"145 264 LINE",
+"127 135 LINE",
+"57 135 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"42 264 LINE",
-"30 479 LINE",
-"146 479 LINE",
-"133 265 LINE",
-"115 136 LINE",
-"60 136 LINE"
+"117 18 OFFCURVE",
+"138 37 OFFCURVE",
+"138 64 CURVE SMOOTH",
+"138 89 OFFCURVE",
+"117 109 OFFCURVE",
+"91 109 CURVE SMOOTH",
+"66 109 OFFCURVE",
+"46 89 OFFCURVE",
+"46 64 CURVE SMOOTH",
+"46 37 OFFCURVE",
+"66 18 OFFCURVE",
+"91 18 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"109 145 LINE",
-"126 267 LINE",
-"138 470 LINE",
-"37 470 LINE",
-"49 266 LINE",
-"66 145 LINE"
+"121 141 LINE",
+"137 266 LINE",
+"150 469 LINE",
+"35 469 LINE",
+"48 265 LINE",
+"63 141 LINE"
 );
 }
 );
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01224 6 18 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0122 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0122 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0123 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012MDAP[1]	/* MoveDirectAbsPt */\012NPUSHW[ ]	/* 9 values pushed */\0126 24 22 24 38 24 54 24 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0124 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0125 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01240 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01240 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01245 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01245 \012MDAP[1]	/* MoveDirectAbsPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01242 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01242 11 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 4 values pushed */\0129 4 52 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01215 1 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 182;
+width = 184;
 }
 );
 note = exclam.smcap;
 },
 {
 glyphname = exclamdown.sc;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-20 21:17:28 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -69047,20 +70275,28 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = exclam.sc;
+transform = "{1, 0, 0, -1, 0, 492}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01218 6 24 4 \012CALL[ ]	/* CallFunction */\012NPUSHW[ ]	/* 9 values pushed */\0126 18 22 18 38 18 54 18 4 \012DELTAP1[ ]	/* DeltaExceptionP1 */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0122 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0122 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0123 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0123 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0124 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0125 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0125 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0126 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01212 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01218 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01239 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01224 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01244 \012MDAP[1]	/* MoveDirectAbsPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 1 value pushed */\0120 \012RCVT[ ]	/* ReadCVT */\012IF[ ]	/* If */\012PUSHW[ ]	/* 1 value pushed */\01241 \012MDAP[1]	/* MoveDirectAbsPt */\012ELSE[ ]	/* Else */\012PUSHW[ ]	/* 2 values pushed */\01241 7 \012MIAP[0]	/* MoveIndirectAbsPt */\012EIF[ ]	/* EndIf */\012PUSHW[ ]	/* 4 values pushed */\01215 1 9 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01250 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 182;
+width = 184;
 }
 );
 note = exclamdown.smcap;
 },
 {
 glyphname = question.sc;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-20 21:17:57 +0000";
 layers = (
 {
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+background = {
 paths = (
 {
 closed = 1;
@@ -69217,6 +70453,152 @@ nodes = (
 );
 }
 );
+};
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
+paths = (
+{
+closed = 1;
+nodes = (
+"185 -8 OFFCURVE",
+"215 21 OFFCURVE",
+"215 63 CURVE SMOOTH",
+"215 79 OFFCURVE",
+"210 94 OFFCURVE",
+"201 107 CURVE",
+"217 107 LINE",
+"217 195 LINE",
+"225 196 OFFCURVE",
+"233 198 OFFCURVE",
+"240 201 CURVE",
+"238 201 LINE",
+"296 224 OFFCURVE",
+"314 292 OFFCURVE",
+"314 351 CURVE SMOOTH",
+"314 467 OFFCURVE",
+"277 506 OFFCURVE",
+"161 506 CURVE SMOOTH",
+"60 506 OFFCURVE",
+"10 461 OFFCURVE",
+"10 372 CURVE SMOOTH",
+"10 284 LINE",
+"127 284 LINE",
+"124 278 OFFCURVE",
+"117 274 OFFCURVE",
+"97 274 CURVE",
+"71 254 LINE",
+"71 107 LINE",
+"90 107 LINE",
+"81 93 OFFCURVE",
+"77 78 OFFCURVE",
+"77 63 CURVE SMOOTH",
+"77 21 OFFCURVE",
+"106 -8 OFFCURVE",
+"145 -8 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"116 8 OFFCURVE",
+"93 31 OFFCURVE",
+"93 63 CURVE SMOOTH",
+"93 92 OFFCURVE",
+"116 117 OFFCURVE",
+"145 117 CURVE SMOOTH",
+"176 117 OFFCURVE",
+"199 92 OFFCURVE",
+"199 63 CURVE SMOOTH",
+"199 31 OFFCURVE",
+"176 8 OFFCURVE",
+"145 8 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"88 254 LINE",
+"97 262 LINE",
+"129 262 OFFCURVE",
+"165 284 OFFCURVE",
+"165 323 CURVE SMOOTH",
+"165 372 LINE SMOOTH",
+"165 384 OFFCURVE",
+"163 386 OFFCURVE",
+"159 386 CURVE SMOOTH",
+"155 386 OFFCURVE",
+"154 381 OFFCURVE",
+"154 372 CURVE SMOOTH",
+"154 299 LINE",
+"27 299 LINE",
+"27 372 LINE SMOOTH",
+"27 449 OFFCURVE",
+"72 488 OFFCURVE",
+"161 488 CURVE SMOOTH",
+"265 488 OFFCURVE",
+"297 452 OFFCURVE",
+"297 351 CURVE SMOOTH",
+"297 298 OFFCURVE",
+"284 236 OFFCURVE",
+"232 218 CURVE",
+"233 218 LINE",
+"224 213 OFFCURVE",
+"211 211 OFFCURVE",
+"200 211 CURVE",
+"200 125 LINE",
+"88 125 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"170 17 OFFCURVE",
+"190 36 OFFCURVE",
+"190 63 CURVE SMOOTH",
+"190 88 OFFCURVE",
+"170 108 OFFCURVE",
+"145 108 CURVE SMOOTH",
+"121 108 OFFCURVE",
+"102 88 OFFCURVE",
+"102 63 CURVE SMOOTH",
+"102 36 OFFCURVE",
+"121 17 OFFCURVE",
+"145 17 CURVE SMOOTH"
+);
+},
+{
+closed = 1;
+nodes = (
+"192 133 LINE",
+"192 219 LINE",
+"199 219 OFFCURVE",
+"219 221 OFFCURVE",
+"230 226 CURVE",
+"276 244 OFFCURVE",
+"289 302 OFFCURVE",
+"289 351 CURVE SMOOTH",
+"289 444 OFFCURVE",
+"258 479 OFFCURVE",
+"161 479 CURVE SMOOTH",
+"77 479 OFFCURVE",
+"35 443 OFFCURVE",
+"35 372 CURVE SMOOTH",
+"35 308 LINE",
+"145 308 LINE",
+"145 367 LINE SMOOTH",
+"145 388 OFFCURVE",
+"149 395 OFFCURVE",
+"160 395 CURVE SMOOTH",
+"170 395 OFFCURVE",
+"174 388 OFFCURVE",
+"174 367 CURVE SMOOTH",
+"174 323 LINE SMOOTH",
+"174 280 OFFCURVE",
+"135 254 OFFCURVE",
+"97 254 CURVE",
+"97 133 LINE"
+);
+}
+);
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\01213 6 98 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01222 6 79 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\0126 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01214 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 3 values pushed */\01293 98 13 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01293 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 2 values pushed */\01239 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01239 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01232 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01233 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01232 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01245 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01245 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01214 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01286 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01293 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01290 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01290 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01292 98 13 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\0126 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012106 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01232 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012119 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012115 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012115 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012117 79 22 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01222 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012126 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 values pushed */\01236 4 122 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01217 2 9 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01278 4 54 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01213 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01278 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01231 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01242 1 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 2 values pushed */\01259 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01292 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01292 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01217 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01297 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01295 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01295 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\0129 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012101 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01236 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012116 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012116 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012117 122 36 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
@@ -69227,7 +70609,7 @@ note = question.smcap;
 },
 {
 glyphname = questiondown.sc;
-lastChange = "2022-01-13 03:45:49 +0000";
+lastChange = "2022-01-20 21:18:18 +0000";
 layers = (
 {
 background = {
@@ -69379,11 +70761,7 @@ nodes = (
 "157 388 OFFCURVE",
 "183 388 CURVE SMOOTH"
 );
-}
-);
-};
-layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
-paths = (
+},
 {
 closed = 1;
 nodes = (
@@ -69527,10 +70905,18 @@ nodes = (
 );
 }
 );
+};
+components = (
+{
+name = question.sc;
+transform = "{-1, 0, 0, -1, 324, 498}";
+}
+);
+layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 assembly = "PUSHW[ ]	/* 4 values pushed */\0124 6 103 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01213 6 82 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01211 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\0124 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01220 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 3 values pushed */\012115 103 4 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\012115 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 2 values pushed */\01230 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 2 values pushed */\01237 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01228 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01228 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01231 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01231 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01230 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01243 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01243 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01220 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01276 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01237 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01290 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01287 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01287 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\01289 82 13 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 3 values pushed */\01294 115 30 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01211 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01296 6 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012115 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012111 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012111 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012113 103 4 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01213 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012122 \012MDRP[11100]	/* MoveDirectRelPt */\012SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */\012PUSHW[ ]	/* 4 values pushed */\0127 4 98 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 4 values pushed */\01240 1 34 4 \012CALL[ ]	/* CallFunction */\012PUSHW[ ]	/* 1 value pushed */\0127 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01215 2 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 2 values pushed */\01211 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01240 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01257 3 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01252 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01252 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 2 values pushed */\01275 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 2 values pushed */\01230 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01252 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01256 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01256 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\01289 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01289 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01215 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\01294 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01292 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\01292 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 1 value pushed */\012112 \012MDRP[10000]	/* MoveDirectRelPt */\012PUSHW[ ]	/* 1 value pushed */\012112 \012MDAP[1]	/* MoveDirectAbsPt */\012PUSHW[ ]	/* 3 values pushed */\012113 34 40 \012SRP1[ ]	/* SetRefPoint1 */\012SRP2[ ]	/* SetRefPoint2 */\012IP[ ]	/* InterpolatePts */\012PUSHW[ ]	/* 1 value pushed */\01234 \012SRP0[ ]	/* SetRefPoint0 */\012PUSHW[ ]	/* 2 values pushed */\012118 4 \012MIRP[10100]	/* MoveIndirectRelPt */\012IUP[0]	/* InterpolateUntPts */\012IUP[1]	/* InterpolateUntPts */";
 };
-width = 332;
+width = 325;
 }
 );
 note = questiondown.smcap;
