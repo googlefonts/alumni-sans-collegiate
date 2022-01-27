@@ -4,17 +4,17 @@ DisplayStrings = (
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghilmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space onvoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Ng/uhorn/ohorntilde ng",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/caroncomb.alt \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\012012347507647989/nbspace \012/dieresiscomb.case/dotaccentcomb.case/gravecomb.case/acutecomb.case/hungarumlautcomb.case/circumflexcomb.case/caroncomb.case/brevecomb.case/ringcomb.case \012nn/Placeholder no/Placeholder oo\012/tildecomb.case/macroncomb.case/hookabovecomb.case/horncomb.case/brevecomb-cy/brevecomb_acutecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/tildecomb.case/brevecomb_tildecomb/circumflexcomb_acutecomb/space \0120123456789\012HH0OHHHHHHHHHH",
 "/Placeholder \012/space/space \012",
-"/macroncomb/amacron/emacron/imacron/odieresismacron/dotaccentcomb/odotaccentmacron/omacron/tildecomb/otildemacron/umacron/ymacron/macronbelowcomb/strokeshortcomb ¯/macroncomb.case \012/dieresiscomb aäë/idotless ïö/odieresismacron ü/wdieresis/ydieresis/Adieresis.sc/Edieresis.sc/Idieresis.sc/Odieresis.sc/Udieresis.sc/Ydieresis.sc/dieresisbelowcomb ¨/dieresiscomb.case \012/dieresiscomb.case AÄEËIÏÖ/Odieresismacron Ü/Udieresiscaron/acutecomb.case/gravecomb.case/Udieresisgrave/macroncomb.case/dieresiscomb.case/Udieresismacron/Wdieresis/Ydieresis/Adieresis.ss01/Edieresis.ss01/Idieresis.ss01/Odieresis.ss01/Udieresis.ss01/Ydieresis.ss01 \012/acutecomb á/ringcomb å/aringacute/uring/Aring.sc/ring/ringcomb.case/aringacute/aeacute/cacute éí/nacute ó/ohornacute/oslashacute/racute/sacute ú/uhorn/uhornacute/wacute ý/zacute/Aacute.sc/Eacute.sc/Iacute.sc/Oacute.sc/Uacute.sc/Yacute.sc ´/brevecomb/abreve/abrevedotbelow/ebreve/gbreve/ibreve/obreve/ubreve \012/breveinvertedcomb/brevebelowcomb/brevecomb/breve/Abreve A/dotbelowcomb/Abrevedotbelow/Ebreve/Gbreve/Ibreve/Obreve/Ubreve/brevecomb.case/brevecomb_acutecomb.case/brevecomb_gravecomb.case/brevecomb_hookabovecomb.case/tildecomb.case/brevecomb_tildecomb.case/brevecomb-cy/brevecomb_acutecomb/gravecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/tildecomb/brevecomb_tildecomb/brevecomb_acutecomb/circumflexcomb â/acircumflexdotbelow/ccircumflex ê/ecircumflexdotbelow/gcircumflex î/jcircumflex ô/ocircumflexdotbelow/scircumflex û/wcircumflex/ycircumflex/Acircumflex.sc/Ecircumflex.sc/Icircumflex.sc/Ocircumflex.sc/Ucircumflex.sc/caroncomb/circumflex/circumflexcomb.case/circumflexcomb_acutecomb/gravecomb/circumflexcomb_gravecomb/hookabovecomb/circumflexcomb_hookabovecomb/circumflexcomb/circumflexcomb_tildecomb/acutecomb/circumflexcomb/circumflexcomb_acutecomb \012/hungarumlautcomb/ohungarumlaut/uhungarumlaut/hungarumlaut/hungarumlautcomb.case/Ohungarumlaut/Uhungarumlaut/space/dblgravecomb/Adblgrave/Edblgrave/Idblgrave/Odblgrave/Rdblgrave/Udblgrave/adblgrave/edblgrave/idblgrave/odblgrave/rdblgrave/udblgrave \012",
+"/macroncomb/amacron/emacron/imacron/odieresismacron/dotaccentcomb/odotaccentmacron/omacron/tildecomb/otildemacron/umacron/ymacron/macronbelowcomb/strokeshortcomb ¯/macroncomb.case \012/dieresiscomb aäë/idotless ïö/odieresismacron ü/wdieresis/ydieresis/adieresis.sc/edieresis.sc/idieresis.sc/odieresis.sc/udieresis.sc/ydieresis.sc/dieresisbelowcomb ¨/dieresiscomb.case \012/dieresiscomb.case AÄEËIÏÖ/Odieresismacron Ü/Udieresiscaron/acutecomb.case/gravecomb.case/Udieresisgrave/macroncomb.case/dieresiscomb.case/Udieresismacron/Wdieresis/Ydieresis/Adieresis.ss01/Edieresis.ss01/Idieresis.ss01/Odieresis.ss01/Udieresis.ss01/Ydieresis.ss01 \012/acutecomb á/ringcomb å/aringacute/uring/aring.sc/ring/ringcomb.case/aringacute/aeacute/cacute éí/nacute ó/ohornacute/oslashacute/racute/sacute ú/uhorn/uhornacute/wacute ý/zacute/aacute.sc/eacute.sc/iacute.sc/oacute.sc/uacute.sc/yacute.sc ´/brevecomb/abreve/abrevedotbelow/ebreve/gbreve/ibreve/obreve/ubreve \012/breveinvertedcomb/brevebelowcomb/brevecomb/breve/Abreve A/dotbelowcomb/Abrevedotbelow/Ebreve/Gbreve/Ibreve/Obreve/Ubreve/brevecomb.case/brevecomb_acutecomb.case/brevecomb_gravecomb.case/brevecomb_hookabovecomb.case/tildecomb.case/brevecomb_tildecomb.case/brevecomb-cy/brevecomb_acutecomb/gravecomb/brevecomb_gravecomb/brevecomb_hookabovecomb/tildecomb/brevecomb_tildecomb/brevecomb_acutecomb/circumflexcomb â/acircumflexdotbelow/ccircumflex ê/ecircumflexdotbelow/gcircumflex î/jcircumflex ô/ocircumflexdotbelow/scircumflex û/wcircumflex/ycircumflex/acircumflex.sc/ecircumflex.sc/icircumflex.sc/ocircumflex.sc/ucircumflex.sc/caroncomb/circumflex/circumflexcomb.case/circumflexcomb_acutecomb/gravecomb/circumflexcomb_gravecomb/hookabovecomb/circumflexcomb_hookabovecomb/circumflexcomb/circumflexcomb_tildecomb/acutecomb/circumflexcomb/circumflexcomb_acutecomb \012/hungarumlautcomb/ohungarumlaut/uhungarumlaut/hungarumlaut/hungarumlautcomb.case/Ohungarumlaut/Uhungarumlaut/space/dblgravecomb/Adblgrave/Edblgrave/Idblgrave/Odblgrave/Rdblgrave/Udblgrave/adblgrave/edblgrave/idblgrave/odblgrave/rdblgrave/udblgrave \012",
 "/Aogonek/Eogonek/Iogonek/Oogonek/Uogonek a/ogonekcomb/aogonek e/eogonek i/iogonek/oogonek/uogonek",
 "/caroncomb.alt d/dcaron n/dcaron o",
 "ÁÄ/Amacron/Aogonek/Eogonek/Iogonek O/Oogonek/Uogonek/aogonek/eogonek i/iogonek/oogonek/uogonek",
 "HÐ/Dcroat/Hbar L/Lcaron ·/Ldot L/Tbar d/dcroat nn/hbar l/ldot l/tbar",
 "aá/abreve/abreveacute/abrevedotbelow/abrevegrave/abrevehookabove/abrevetilde/acaron â/acircumflexacute/acircumflexdotbelow/acircumflexgrave/acircumflexhookabove/acircumflextilde/adblgrave ä/adotbelow à/ahookabove/ainvertedbreve/amacron/aogonek å/commaaccentcomb/Gcommaaccent/Kcommaaccent/Lcommaaccent/Ncommaaccent/Rcommaaccent/Scommaaccent/Tcommaaccent/kcommaaccent/lcommaaccent/ncommaaccent/rcommaaccent/scommaaccent/tcommaaccent",
 "/dieresiscomb/dotaccentcomb/gravecomb/acutecomb/hungarumlautcomb/caroncomb.alt L/Lcaron d/dcaron/lcaron t/tcaron/circumflexcomb/caroncomb/brevecomb/ringcomb/tildecomb/macroncomb/hookabovecomb/dblgravecomb/breveinvertedcomb/commaturnedabovecomb/horncomb/dotbelowcomb/dieresisbelowcomb/commaaccentcomb/commaturnedabovecomb/cedillacomb/ogonekcomb/brevebelowcomb/macronbelowcomb/strokeshortcomb",
-"¿/.null/questiondown.lining",
-"/Aogonek/Eogonek/Iogonek/Oogonek/Uogonek/aogonek/eogonek/iogonek/oogonek/uogonek/ogonekcomb/ogonek i\012PARAL·LELH/space \012col·li·sion\012l/periodcentered.loclCAT l/space L/periodcentered.loclCAT.case L/space/L.sc/periodcentered.loclCAT.sc/L.sc",
+"¿/questiondown.lining",
+"/Aogonek/Eogonek/Iogonek/Oogonek/Uogonek/aogonek/eogonek/iogonek/oogonek/uogonek/ogonekcomb/ogonek i\012PARAL·LELH/space \012col·li·sion\012l/periodcentered.loclCAT l/space L/periodcentered.loclCAT.case L/space/l.sc/periodcentered.loclCAT.sc/l.sc",
 "C/Cacute/Ccaron/Ccircumflex/Cdotaccent/Es-cy Ç/Scedilla ç/scedilla",
-"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o.:,;./ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}/space []-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math @\012.,:;/ellipsis !¡?¿·/bullet/exclamdown.lining/questiondown.lining/A.sc/A.ss01/B.ss01/period.ss01/comma.ss01/colon.ss01/semicolon.ss01/exclam.ss01/exclamdown.ss01/question.ss01/questiondown.ss01 \012/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotedblleft.ss01/quotedblright.ss01/quoteleft.ss01/quoteright.ss01/H.sc/period.sc/comma.sc/colon.sc/semicolon.sc/exclam.sc/exclamdown.sc/H.sc/H.sc/question.sc/H.sc/H.sc/questiondown.sc/quotedblleft.sc/quotedblright.sc/quoteleft.sc/quoteright.sc \012",
+"nn/Placeholder no/Placeholder oo/space HH/Placeholder HO/Placeholder OO\012o.:,;./ellipsis !¡?¿nn?·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (){}/space []-­/endash/emdash/hyphentwo _o/quotesinglbase/quotedblbase \012/quotedblleft/quotedblright/quoteleft/quoteright «»/guilsinglleft/guilsinglright \"'/leftanglebracket-math/rightanglebracket-math @\012.,:;/ellipsis !¡?¿·/bullet/exclamdown.lining/questiondown.lining/a.sc/A.ss01/B.ss01/period.ss01/comma.ss01/colon.ss01/semicolon.ss01/exclam.ss01/exclamdown.ss01/question.ss01/questiondown.ss01 \012/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright/quotedblleft.ss01/quotedblright.ss01/quoteleft.ss01/quoteright.ss01/h.sc/period.sc/comma.sc/colon.sc/semicolon.sc/exclam.sc/exclamdown.sc/h.sc/h.sc/question.sc/h.sc/h.sc/questiondown.sc/quotedblleft.sc/quotedblright.sc/quoteleft.sc/quoteright.sc \012",
 "/approxequal 2~¬1/plus.ss01 1/minus.ss01 1/multiply.ss01 1/divide.ss01/equal.ss01/greater.ss01/less.ss01"
 );
 classes = (
@@ -72,7 +72,7 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature lnum;\012feature onum;\012feature c2sc;\012feature smcp;\012feature case;\012feature salt;\012feature ss01;\012";
+code = "feature locl;\012feature subs;\012feature sinf;\012feature sups;\012feature numr;\012feature dnom;\012feature frac;\012feature ordn;\012feature lnum;\012feature onum;\012feature c2sc;\012feature c2sc;\012feature smcp;\012feature case;\012feature salt;\012feature ss01;\012";
 name = aalt;
 },
 {
@@ -132,7 +132,7 @@ name = onum;
 },
 {
 automatic = 1;
-code = "sub A by A.sc;\012sub Aacute by Aacute.sc;\012sub Acircumflex by Acircumflex.sc;\012sub Adieresis by Adieresis.sc;\012sub Agrave by Agrave.sc;\012sub Aring by Aring.sc;\012sub Atilde by Atilde.sc;\012sub AE by AE.sc;\012sub B by B.sc;\012sub C by C.sc;\012sub D by D.sc;\012sub E by E.sc;\012sub Eacute by Eacute.sc;\012sub Ecircumflex by Ecircumflex.sc;\012sub Edieresis by Edieresis.sc;\012sub Egrave by Egrave.sc;\012sub F by F.sc;\012sub G by G.sc;\012sub H by H.sc;\012sub I by I.sc;\012sub Iacute by Iacute.sc;\012sub Icircumflex by Icircumflex.sc;\012sub Idieresis by Idieresis.sc;\012sub Igrave by Igrave.sc;\012sub J by J.sc;\012sub K by K.sc;\012sub L by L.sc;\012sub M by M.sc;\012sub N by N.sc;\012sub Ntilde by Ntilde.sc;\012sub O by O.sc;\012sub Oacute by Oacute.sc;\012sub Ocircumflex by Ocircumflex.sc;\012sub Odieresis by Odieresis.sc;\012sub Ograve by Ograve.sc;\012sub Oslash by Oslash.sc;\012sub Otilde by Otilde.sc;\012sub OE by OE.sc;\012sub P by P.sc;\012sub Q by Q.sc;\012sub R by R.sc;\012sub S by S.sc;\012sub Scaron by Scaron.sc;\012sub T by T.sc;\012sub U by U.sc;\012sub Uacute by Uacute.sc;\012sub Ucircumflex by Ucircumflex.sc;\012sub Udieresis by Udieresis.sc;\012sub Ugrave by Ugrave.sc;\012sub V by V.sc;\012sub W by W.sc;\012sub X by X.sc;\012sub Y by Y.sc;\012sub Yacute by Yacute.sc;\012sub Ydieresis by Ydieresis.sc;\012sub Z by Z.sc;\012sub Zcaron by Zcaron.sc;\012sub zero by zero.sc;\012sub one by one.sc;\012sub two by two.sc;\012sub three by three.sc;\012sub four by four.sc;\012sub five by five.sc;\012sub six by six.sc;\012sub seven by seven.sc;\012sub eight by eight.sc;\012sub nine by nine.sc;\012sub zero.slash by zero.slash.sc;\012sub hyphen by hyphen.sc;\012sub endash by endash.sc;\012sub emdash by emdash.sc;\012sub parenleft by parenleft.sc;\012sub parenright by parenright.sc;\012sub braceleft by braceleft.sc;\012sub braceright by braceright.sc;\012sub bracketleft by bracketleft.sc;\012sub bracketright by bracketright.sc;\012sub period by period.sc;\012sub comma by comma.sc;\012sub colon by colon.sc;\012sub semicolon by semicolon.sc;\012sub exclam by exclam.sc;\012sub exclamdown by exclamdown.sc;\012sub question by question.sc;\012sub questiondown by questiondown.sc;\012sub quotedblleft by quotedblleft.sc;\012sub quotedblright by quotedblright.sc;\012sub quoteleft by quoteleft.sc;\012sub quoteright by quoteright.sc;\012sub asterisk by asterisk.sc;\012sub periodcentered.loclCAT.case by periodcentered.loclCAT.sc;\012sub numbersign by numbersign.sc;\012sub slash by slash.sc;\012sub backslash by backslash.sc;\012sub quotedbl by quotedbl.sc;\012sub quotesingle by quotesingle.sc;\012sub space by space.sc;\012sub at by at.sc;\012sub ampersand by ampersand.sc;\012sub copyright by copyright.sc;\012sub registered by registered.sc;\012sub bar by bar.sc;\012sub cent by cent.sc;\012sub dollar by dollar.sc;\012sub euro by euro.sc;\012sub plus by plus.sc;\012sub minus by minus.sc;\012sub multiply by multiply.sc;\012sub divide by divide.sc;\012sub equal by equal.sc;\012sub greater by greater.sc;\012sub less by less.sc;\012sub percent by percent.sc;\012";
+code = "sub A by a.sc;\012sub Aacute by aacute.sc;\012sub Acircumflex by acircumflex.sc;\012sub Adieresis by adieresis.sc;\012sub Agrave by agrave.sc;\012sub Aring by aring.sc;\012sub Atilde by atilde.sc;\012sub AE by ae.sc;\012sub B by b.sc;\012sub C by c.sc;\012sub D by d.sc;\012sub E by e.sc;\012sub Eacute by eacute.sc;\012sub Ecircumflex by ecircumflex.sc;\012sub Edieresis by edieresis.sc;\012sub Egrave by egrave.sc;\012sub F by f.sc;\012sub G by g.sc;\012sub H by h.sc;\012sub I by i.sc;\012sub Iacute by iacute.sc;\012sub Icircumflex by icircumflex.sc;\012sub Idieresis by idieresis.sc;\012sub Igrave by igrave.sc;\012sub J by j.sc;\012sub K by k.sc;\012sub L by l.sc;\012sub M by m.sc;\012sub N by n.sc;\012sub Ntilde by ntilde.sc;\012sub O by o.sc;\012sub Oacute by oacute.sc;\012sub Ocircumflex by ocircumflex.sc;\012sub Odieresis by odieresis.sc;\012sub Ograve by ograve.sc;\012sub Oslash by oslash.sc;\012sub Otilde by otilde.sc;\012sub OE by oe.sc;\012sub P by p.sc;\012sub Q by q.sc;\012sub R by r.sc;\012sub S by s.sc;\012sub Scaron by scaron.sc;\012sub T by t.sc;\012sub U by u.sc;\012sub Uacute by uacute.sc;\012sub Ucircumflex by ucircumflex.sc;\012sub Udieresis by udieresis.sc;\012sub Ugrave by ugrave.sc;\012sub V by v.sc;\012sub W by w.sc;\012sub X by x.sc;\012sub Y by y.sc;\012sub Yacute by yacute.sc;\012sub Ydieresis by ydieresis.sc;\012sub Z by z.sc;\012sub Zcaron by zcaron.sc;\012sub zero by zero.sc;\012sub one by one.sc;\012sub two by two.sc;\012sub three by three.sc;\012sub four by four.sc;\012sub five by five.sc;\012sub six by six.sc;\012sub seven by seven.sc;\012sub eight by eight.sc;\012sub nine by nine.sc;\012sub zero.slash by zero.slash.sc;\012sub hyphen by hyphen.sc;\012sub endash by endash.sc;\012sub emdash by emdash.sc;\012sub parenleft by parenleft.sc;\012sub parenright by parenright.sc;\012sub braceleft by braceleft.sc;\012sub braceright by braceright.sc;\012sub bracketleft by bracketleft.sc;\012sub bracketright by bracketright.sc;\012sub period by period.sc;\012sub comma by comma.sc;\012sub colon by colon.sc;\012sub semicolon by semicolon.sc;\012sub exclam by exclam.sc;\012sub exclamdown by exclamdown.sc;\012sub question by question.sc;\012sub questiondown by questiondown.sc;\012sub quotedblleft by quotedblleft.sc;\012sub quotedblright by quotedblright.sc;\012sub quoteleft by quoteleft.sc;\012sub quoteright by quoteright.sc;\012sub asterisk by asterisk.sc;\012sub periodcentered.loclCAT.case by periodcentered.loclCAT.sc;\012sub numbersign by numbersign.sc;\012sub slash by slash.sc;\012sub backslash by backslash.sc;\012sub quotedbl by quotedbl.sc;\012sub quotesingle by quotesingle.sc;\012sub space by space.sc;\012sub at by at.sc;\012sub ampersand by ampersand.sc;\012sub copyright by copyright.sc;\012sub registered by registered.sc;\012sub bar by bar.sc;\012sub cent by cent.sc;\012sub dollar by dollar.sc;\012sub euro by euro.sc;\012sub plus by plus.sc;\012sub minus by minus.sc;\012sub multiply by multiply.sc;\012sub divide by divide.sc;\012sub equal by equal.sc;\012sub greater by greater.sc;\012sub less by less.sc;\012sub percent by percent.sc;\012";
 name = c2sc;
 },
 {
@@ -141,7 +141,7 @@ name = c2sc;
 },
 {
 automatic = 1;
-code = "sub zero by zero.sc;\012sub one by one.sc;\012sub two by two.sc;\012sub three by three.sc;\012sub four by four.sc;\012sub five by five.sc;\012sub six by six.sc;\012sub seven by seven.sc;\012sub eight by eight.sc;\012sub nine by nine.sc;\012sub zero.slash by zero.slash.sc;\012sub hyphen by hyphen.sc;\012sub endash by endash.sc;\012sub emdash by emdash.sc;\012sub parenleft by parenleft.sc;\012sub parenright by parenright.sc;\012sub braceleft by braceleft.sc;\012sub braceright by braceright.sc;\012sub bracketleft by bracketleft.sc;\012sub bracketright by bracketright.sc;\012sub period by period.sc;\012sub comma by comma.sc;\012sub colon by colon.sc;\012sub semicolon by semicolon.sc;\012sub exclam by exclam.sc;\012sub exclamdown by exclamdown.sc;\012sub question by question.sc;\012sub questiondown by questiondown.sc;\012sub quotedblleft by quotedblleft.sc;\012sub quotedblright by quotedblright.sc;\012sub quoteleft by quoteleft.sc;\012sub quoteright by quoteright.sc;\012sub asterisk by asterisk.sc;\012sub periodcentered.loclCAT by periodcentered.loclCAT.sc;\012sub numbersign by numbersign.sc;\012sub slash by slash.sc;\012sub backslash by backslash.sc;\012sub quotedbl by quotedbl.sc;\012sub quotesingle by quotesingle.sc;\012sub space by space.sc;\012sub at by at.sc;\012sub ampersand by ampersand.sc;\012sub copyright by copyright.sc;\012sub registered by registered.sc;\012sub bar by bar.sc;\012sub cent by cent.sc;\012sub dollar by dollar.sc;\012sub euro by euro.sc;\012sub plus by plus.sc;\012sub minus by minus.sc;\012sub multiply by multiply.sc;\012sub divide by divide.sc;\012sub equal by equal.sc;\012sub greater by greater.sc;\012sub less by less.sc;\012sub percent by percent.sc;\012";
+code = "sub a by a.sc;\012sub aacute by aacute.sc;\012sub acircumflex by acircumflex.sc;\012sub adieresis by adieresis.sc;\012sub agrave by agrave.sc;\012sub aring by aring.sc;\012sub atilde by atilde.sc;\012sub ae by ae.sc;\012sub b by b.sc;\012sub c by c.sc;\012sub d by d.sc;\012sub e by e.sc;\012sub eacute by eacute.sc;\012sub ecircumflex by ecircumflex.sc;\012sub edieresis by edieresis.sc;\012sub egrave by egrave.sc;\012sub f by f.sc;\012sub g by g.sc;\012sub h by h.sc;\012sub i by i.sc;\012sub iacute by iacute.sc;\012sub icircumflex by icircumflex.sc;\012sub idieresis by idieresis.sc;\012sub igrave by igrave.sc;\012sub j by j.sc;\012sub jdotless by j.sc;\012sub k by k.sc;\012sub l by l.sc;\012sub m by m.sc;\012sub n by n.sc;\012sub ntilde by ntilde.sc;\012sub o by o.sc;\012sub oacute by oacute.sc;\012sub ocircumflex by ocircumflex.sc;\012sub odieresis by odieresis.sc;\012sub ograve by ograve.sc;\012sub oslash by oslash.sc;\012sub otilde by otilde.sc;\012sub oe by oe.sc;\012sub p by p.sc;\012sub q by q.sc;\012sub r by r.sc;\012sub s by s.sc;\012sub scaron by scaron.sc;\012sub t by t.sc;\012sub u by u.sc;\012sub uacute by uacute.sc;\012sub ucircumflex by ucircumflex.sc;\012sub udieresis by udieresis.sc;\012sub ugrave by ugrave.sc;\012sub v by v.sc;\012sub w by w.sc;\012sub x by x.sc;\012sub y by y.sc;\012sub yacute by yacute.sc;\012sub ydieresis by ydieresis.sc;\012sub z by z.sc;\012sub zcaron by zcaron.sc;\012sub zero by zero.sc;\012sub one by one.sc;\012sub two by two.sc;\012sub three by three.sc;\012sub four by four.sc;\012sub five by five.sc;\012sub six by six.sc;\012sub seven by seven.sc;\012sub eight by eight.sc;\012sub nine by nine.sc;\012sub zero.slash by zero.slash.sc;\012sub hyphen by hyphen.sc;\012sub endash by endash.sc;\012sub emdash by emdash.sc;\012sub parenleft by parenleft.sc;\012sub parenright by parenright.sc;\012sub braceleft by braceleft.sc;\012sub braceright by braceright.sc;\012sub bracketleft by bracketleft.sc;\012sub bracketright by bracketright.sc;\012sub period by period.sc;\012sub comma by comma.sc;\012sub colon by colon.sc;\012sub semicolon by semicolon.sc;\012sub exclam by exclam.sc;\012sub exclamdown by exclamdown.sc;\012sub question by question.sc;\012sub questiondown by questiondown.sc;\012sub quotedblleft by quotedblleft.sc;\012sub quotedblright by quotedblright.sc;\012sub quoteleft by quoteleft.sc;\012sub quoteright by quoteright.sc;\012sub asterisk by asterisk.sc;\012sub periodcentered.loclCAT by periodcentered.loclCAT.sc;\012sub numbersign by numbersign.sc;\012sub slash by slash.sc;\012sub backslash by backslash.sc;\012sub quotedbl by quotedbl.sc;\012sub quotesingle by quotesingle.sc;\012sub space by space.sc;\012sub at by at.sc;\012sub ampersand by ampersand.sc;\012sub copyright by copyright.sc;\012sub registered by registered.sc;\012sub bar by bar.sc;\012sub cent by cent.sc;\012sub dollar by dollar.sc;\012sub euro by euro.sc;\012sub plus by plus.sc;\012sub minus by minus.sc;\012sub multiply by multiply.sc;\012sub divide by divide.sc;\012sub equal by equal.sc;\012sub greater by greater.sc;\012sub less by less.sc;\012sub percent by percent.sc;\012";
 name = smcp;
 },
 {
@@ -360,7 +360,7 @@ note = .notdef;
 },
 {
 glyphname = .null;
-lastChange = "2021-12-03 01:38:01 +0000";
+lastChange = "2022-01-21 23:53:19 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -368,6 +368,7 @@ width = 0;
 }
 );
 note = NULL;
+unicode = 0000;
 },
 {
 glyphname = CR;
@@ -992,7 +993,7 @@ unicode = 0100;
 {
 color = 3;
 glyphname = Aogonek;
-lastChange = "2022-01-14 23:38:49 +0000";
+lastChange = "2022-01-21 04:56:39 +0000";
 layers = (
 {
 anchors = (
@@ -1375,14 +1376,6 @@ nodes = (
 "252 -110 OFFCURVE",
 "277 -129 OFFCURVE",
 "317 -129 CURVE SMOOTH"
-);
-},
-{
-closed = 1;
-nodes = (
-"204 450 LINE",
-"219 175 LINE",
-"188 175 LINE"
 );
 },
 {
@@ -27253,7 +27246,7 @@ unicode = 0146;
 },
 {
 glyphname = eng;
-lastChange = "2021-12-17 05:32:44 +0000";
+lastChange = "2022-01-21 05:01:13 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -27299,8 +27292,8 @@ nodes = (
 "180 376 OFFCURVE",
 "179 376 OFFCURVE",
 "179 377 CURVE SMOOTH",
-"179 377 OFFCURVE",
 "178 377 OFFCURVE",
+"177 377 OFFCURVE",
 "176 376 CURVE",
 "176 18 LINE",
 "26 18 LINE",
@@ -28859,7 +28852,7 @@ unicode = 014D;
 {
 color = 3;
 glyphname = oogonek;
-lastChange = "2022-01-15 01:10:53 +0000";
+lastChange = "2022-01-21 05:01:56 +0000";
 layers = (
 {
 background = {
@@ -30355,13 +30348,6 @@ nodes = (
 "173 98.034 OFFCURVE",
 "174.55 96 OFFCURVE",
 "180 96 CURVE SMOOTH"
-);
-},
-{
-closed = 0;
-nodes = (
-"194 112 LINE SMOOTH",
-"194 382 LINE SMOOTH"
 );
 }
 );
@@ -41252,8 +41238,8 @@ note = t_u;
 rightMetricsKey = u;
 },
 {
-glyphname = A.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = a.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 anchors = (
@@ -41338,13 +41324,13 @@ width = 353;
 note = A.smcap;
 },
 {
-glyphname = Aacute.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = aacute.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = A.sc;
+name = a.sc;
 },
 {
 name = acutecomb;
@@ -41361,13 +41347,13 @@ width = 353;
 note = Aacute.smcap;
 },
 {
-glyphname = Acircumflex.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = acircumflex.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = A.sc;
+name = a.sc;
 },
 {
 name = circumflexcomb;
@@ -41384,13 +41370,13 @@ width = 353;
 note = Acircumflex.smcap;
 },
 {
-glyphname = Adieresis.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = adieresis.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = A.sc;
+name = a.sc;
 },
 {
 name = dieresiscomb;
@@ -41407,13 +41393,13 @@ width = 353;
 note = Adieresis.smcap;
 },
 {
-glyphname = Agrave.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = agrave.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = A.sc;
+name = a.sc;
 },
 {
 name = gravecomb;
@@ -41430,13 +41416,13 @@ width = 353;
 note = Agrave.smcap;
 },
 {
-glyphname = Aring.sc;
-lastChange = "2021-12-17 04:58:44 +0000";
+glyphname = aring.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = A.sc;
+name = a.sc;
 },
 {
 name = ringcomb;
@@ -41454,13 +41440,13 @@ note = Aring.smcap;
 rightKerningGroup = a;
 },
 {
-glyphname = Atilde.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = atilde.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = A.sc;
+name = a.sc;
 },
 {
 name = tildecomb;
@@ -41477,8 +41463,8 @@ width = 353;
 note = Atilde.smcap;
 },
 {
-glyphname = AE.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = ae.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -41586,8 +41572,8 @@ width = 445;
 note = AE.smcap;
 },
 {
-glyphname = B.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = b.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -41745,8 +41731,8 @@ width = 331;
 note = B.smcap;
 },
 {
-glyphname = C.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = c.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -41870,8 +41856,8 @@ width = 317;
 note = C.smcap;
 },
 {
-glyphname = D.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = d.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -41967,8 +41953,8 @@ width = 319;
 note = D.smcap;
 },
 {
-glyphname = E.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = e.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 anchors = (
@@ -42052,13 +42038,13 @@ width = 256;
 note = E.smcap;
 },
 {
-glyphname = Eacute.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = eacute.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = E.sc;
+name = e.sc;
 },
 {
 name = acutecomb;
@@ -42075,13 +42061,13 @@ width = 256;
 note = Eacute.smcap;
 },
 {
-glyphname = Ecircumflex.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = ecircumflex.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = E.sc;
+name = e.sc;
 },
 {
 name = circumflexcomb;
@@ -42098,13 +42084,13 @@ width = 256;
 note = Ecircumflex.smcap;
 },
 {
-glyphname = Edieresis.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = edieresis.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = E.sc;
+name = e.sc;
 },
 {
 name = dieresiscomb;
@@ -42121,13 +42107,13 @@ width = 256;
 note = Edieresis.smcap;
 },
 {
-glyphname = Egrave.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = egrave.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = E.sc;
+name = e.sc;
 },
 {
 name = gravecomb;
@@ -42144,8 +42130,8 @@ width = 256;
 note = Egrave.smcap;
 },
 {
-glyphname = F.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = f.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -42205,8 +42191,8 @@ width = 256;
 note = F.smcap;
 },
 {
-glyphname = G.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = g.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -42329,8 +42315,8 @@ width = 317;
 note = G.smcap;
 },
 {
-glyphname = H.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = h.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -42388,8 +42374,8 @@ width = 316;
 note = H.smcap;
 },
 {
-glyphname = I.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = i.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 anchors = (
@@ -42449,13 +42435,13 @@ width = 154;
 note = I.smcap;
 },
 {
-glyphname = Iacute.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = iacute.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = I.sc;
+name = i.sc;
 },
 {
 name = acutecomb;
@@ -42472,13 +42458,13 @@ width = 154;
 note = Iacute.smcap;
 },
 {
-glyphname = Icircumflex.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = icircumflex.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = I.sc;
+name = i.sc;
 },
 {
 name = circumflexcomb;
@@ -42495,13 +42481,13 @@ width = 154;
 note = Icircumflex.smcap;
 },
 {
-glyphname = Idieresis.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = idieresis.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = I.sc;
+name = i.sc;
 },
 {
 name = dieresiscomb;
@@ -42518,13 +42504,13 @@ width = 154;
 note = Idieresis.smcap;
 },
 {
-glyphname = Igrave.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = igrave.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = I.sc;
+name = i.sc;
 },
 {
 name = gravecomb;
@@ -42541,8 +42527,8 @@ width = 154;
 note = Igrave.smcap;
 },
 {
-glyphname = J.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = j.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -42616,8 +42602,8 @@ width = 212;
 note = J.smcap;
 },
 {
-glyphname = K.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = k.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -42674,8 +42660,8 @@ width = 353;
 note = K.smcap;
 },
 {
-glyphname = L.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = l.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -42723,8 +42709,8 @@ width = 239;
 note = L.smcap;
 },
 {
-glyphname = M.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = m.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -42790,8 +42776,8 @@ width = 431;
 note = M.smcap;
 },
 {
-glyphname = N.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = n.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 anchors = (
@@ -42861,13 +42847,13 @@ width = 312;
 note = N.smcap;
 },
 {
-glyphname = Ntilde.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = ntilde.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = N.sc;
+name = n.sc;
 },
 {
 name = tildecomb;
@@ -42884,8 +42870,8 @@ width = 312;
 note = Ntilde.smcap;
 },
 {
-glyphname = O.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = o.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 anchors = (
@@ -43033,13 +43019,13 @@ width = 316;
 note = O.smcap;
 },
 {
-glyphname = Oacute.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = oacute.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = O.sc;
+name = o.sc;
 },
 {
 name = acutecomb;
@@ -43056,13 +43042,13 @@ width = 316;
 note = Oacute.smcap;
 },
 {
-glyphname = Ocircumflex.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = ocircumflex.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = O.sc;
+name = o.sc;
 },
 {
 name = circumflexcomb;
@@ -43079,13 +43065,13 @@ width = 316;
 note = Ocircumflex.smcap;
 },
 {
-glyphname = Odieresis.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = odieresis.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = O.sc;
+name = o.sc;
 },
 {
 name = dieresiscomb;
@@ -43102,13 +43088,13 @@ width = 316;
 note = Odieresis.smcap;
 },
 {
-glyphname = Ograve.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = ograve.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = O.sc;
+name = o.sc;
 },
 {
 name = gravecomb;
@@ -43125,8 +43111,8 @@ width = 316;
 note = Ograve.smcap;
 },
 {
-glyphname = Oslash.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = oslash.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -43308,13 +43294,13 @@ width = 414;
 note = Oslash.smcap;
 },
 {
-glyphname = Otilde.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = otilde.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = O.sc;
+name = o.sc;
 },
 {
 name = tildecomb;
@@ -43331,8 +43317,8 @@ width = 316;
 note = Otilde.smcap;
 },
 {
-glyphname = OE.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = oe.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -43484,8 +43470,8 @@ width = 424;
 note = OE.smcap;
 },
 {
-glyphname = P.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = p.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -43588,8 +43574,8 @@ width = 320;
 note = P.smcap;
 },
 {
-glyphname = Q.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = q.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -43715,8 +43701,8 @@ width = 325;
 note = Q.smcap;
 },
 {
-glyphname = R.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = r.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -43842,8 +43828,8 @@ width = 351;
 note = R.smcap;
 },
 {
-glyphname = S.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = s.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 anchors = (
@@ -44029,13 +44015,13 @@ width = 330;
 note = S.smcap;
 },
 {
-glyphname = Scaron.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = scaron.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = S.sc;
+name = s.sc;
 },
 {
 name = caroncomb;
@@ -44052,8 +44038,8 @@ width = 330;
 note = Scaron.smcap;
 },
 {
-glyphname = T.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = t.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -44107,8 +44093,8 @@ width = 289;
 note = T.smcap;
 },
 {
-glyphname = U.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = u.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 anchors = (
@@ -44207,13 +44193,13 @@ width = 314;
 note = U.smcap;
 },
 {
-glyphname = Uacute.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = uacute.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = U.sc;
+name = u.sc;
 },
 {
 name = acutecomb;
@@ -44230,13 +44216,13 @@ width = 314;
 note = Uacute.smcap;
 },
 {
-glyphname = Ucircumflex.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = ucircumflex.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = U.sc;
+name = u.sc;
 },
 {
 name = circumflexcomb;
@@ -44253,13 +44239,13 @@ width = 314;
 note = Ucircumflex.smcap;
 },
 {
-glyphname = Udieresis.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = udieresis.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = U.sc;
+name = u.sc;
 },
 {
 name = dieresiscomb;
@@ -44276,13 +44262,13 @@ width = 314;
 note = Udieresis.smcap;
 },
 {
-glyphname = Ugrave.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = ugrave.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = U.sc;
+name = u.sc;
 },
 {
 name = gravecomb;
@@ -44299,8 +44285,8 @@ width = 314;
 note = Ugrave.smcap;
 },
 {
-glyphname = V.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = v.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -44353,8 +44339,8 @@ width = 356;
 note = V.smcap;
 },
 {
-glyphname = W.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = w.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -44428,8 +44414,8 @@ width = 539;
 note = W.smcap;
 },
 {
-glyphname = X.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = x.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -44495,8 +44481,8 @@ width = 356;
 note = X.smcap;
 },
 {
-glyphname = Y.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = y.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 anchors = (
@@ -44569,13 +44555,13 @@ width = 348;
 note = Y.smcap;
 },
 {
-glyphname = Yacute.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = yacute.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = Y.sc;
+name = y.sc;
 },
 {
 name = acutecomb;
@@ -44592,13 +44578,13 @@ width = 348;
 note = Yacute.smcap;
 },
 {
-glyphname = Ydieresis.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = ydieresis.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = Y.sc;
+name = y.sc;
 },
 {
 name = dieresiscomb;
@@ -44615,8 +44601,8 @@ width = 348;
 note = Ydieresis.smcap;
 },
 {
-glyphname = Z.sc;
-lastChange = "2021-12-06 10:21:32 +0000";
+glyphname = z.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 anchors = (
@@ -44690,13 +44676,13 @@ width = 254;
 note = Z.smcap;
 },
 {
-glyphname = Zcaron.sc;
-lastChange = "2022-01-13 03:08:41 +0000";
+glyphname = zcaron.sc;
+lastChange = "2022-01-21 04:52:15 +0000";
 layers = (
 {
 components = (
 {
-name = Z.sc;
+name = z.sc;
 },
 {
 name = caroncomb;
@@ -46223,7 +46209,7 @@ unicode = 0425;
 },
 {
 glyphname = "Che-cy";
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-21 05:01:14 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -46260,8 +46246,8 @@ nodes = (
 "174 258 OFFCURVE",
 "176 252 OFFCURVE",
 "180 252 CURVE SMOOTH",
+"181 252 OFFCURVE",
 "183 252 OFFCURVE",
-"184 252 OFFCURVE",
 "184 252 CURVE",
 "186 253 LINE",
 "186 573 LINE",
@@ -49854,7 +49840,7 @@ unicode = 0445;
 },
 {
 glyphname = "che-cy";
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-21 05:01:14 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -49891,8 +49877,8 @@ nodes = (
 "175 202 OFFCURVE",
 "177 197 OFFCURVE",
 "181 197 CURVE SMOOTH",
+"182 197 OFFCURVE",
 "183 197 OFFCURVE",
-"184 197 OFFCURVE",
 "184 197 CURVE",
 "187 198 LINE",
 "187 477 LINE",
@@ -55846,7 +55832,7 @@ note = five.tabular;
 {
 color = 4;
 glyphname = six.ss01;
-lastChange = "2021-12-07 23:05:31 +0000";
+lastChange = "2022-01-21 05:01:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -57874,7 +57860,7 @@ note = eight.dnom;
 },
 {
 glyphname = nine.dnom;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-21 05:01:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -57912,8 +57898,8 @@ nodes = (
 "28 120 LINE",
 "114 120 LINE",
 "114 77 LINE",
-"114 77 OFFCURVE",
-"115 79 OFFCURVE",
+"114 78 OFFCURVE",
+"115 80 OFFCURVE",
 "115 84 CURVE SMOOTH",
 "115 131 LINE",
 "104 124 OFFCURVE",
@@ -59111,7 +59097,7 @@ note = eight.numr;
 },
 {
 glyphname = nine.numr;
-lastChange = "2021-12-06 10:21:32 +0000";
+lastChange = "2022-01-21 05:01:15 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -59149,8 +59135,8 @@ nodes = (
 "28 354 LINE",
 "114 354 LINE",
 "114 311 LINE",
-"114 311 OFFCURVE",
-"115 313 OFFCURVE",
+"114 312 OFFCURVE",
+"115 314 OFFCURVE",
 "115 318 CURVE SMOOTH",
 "115 365 LINE",
 "104 358 OFFCURVE",
@@ -99595,7 +99581,7 @@ note = triangle.right.smcap;
 },
 {
 glyphname = robbie;
-lastChange = "2021-12-06 10:21:33 +0000";
+lastChange = "2022-01-21 05:01:18 +0000";
 layers = (
 {
 layerId = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
@@ -99663,9 +99649,7 @@ nodes = (
 "269 60 OFFCURVE",
 "269 60 CURVE",
 "268 59 LINE",
-"268 59 OFFCURVE",
-"267 59 OFFCURVE",
-"267 59 CURVE",
+"267 59 LINE",
 "266 58 LINE",
 "252 58 LINE",
 "250 59 OFFCURVE",
@@ -99885,8 +99869,8 @@ nodes = (
 "114 251 OFFCURVE",
 "114 253 CURVE SMOOTH",
 "113 258 LINE SMOOTH",
-"113 260 OFFCURVE",
-"114 261 OFFCURVE",
+"113 259 OFFCURVE",
+"114 260 OFFCURVE",
 "114 261 CURVE",
 "114 262 LINE",
 "115 262 LINE",
@@ -99915,8 +99899,8 @@ nodes = (
 "115 291 OFFCURVE",
 "116 293 OFFCURVE",
 "118 296 CURVE",
+"120 296 OFFCURVE",
 "122 296 OFFCURVE",
-"123 296 OFFCURVE",
 "123 296 CURVE SMOOTH",
 "123 295 OFFCURVE",
 "124 295 OFFCURVE",
@@ -100218,8 +100202,8 @@ nodes = (
 "366 391 LINE",
 "369 391 LINE",
 "369 384 LINE SMOOTH",
-"369 382 OFFCURVE",
-"370 381 OFFCURVE",
+"369 383 OFFCURVE",
+"370 382 OFFCURVE",
 "370 381 CURVE",
 "370 361 LINE",
 "369 361 LINE",
@@ -100252,8 +100236,8 @@ nodes = (
 "355 249 OFFCURVE",
 "355 249 CURVE",
 "356 248 LINE",
-"354 247 OFFCURVE",
-"352 246 OFFCURVE",
+"355 247 OFFCURVE",
+"353 246 OFFCURVE",
 "352 246 CURVE",
 "352 244 LINE",
 "353 243 OFFCURVE",
@@ -100402,9 +100386,7 @@ nodes = (
 "122 527 OFFCURVE",
 "122 525 CURVE SMOOTH",
 "122 522 LINE",
-"122 522 OFFCURVE",
-"121 522 OFFCURVE",
-"121 522 CURVE SMOOTH",
+"121 522 LINE",
 "119 521 LINE",
 "118 519 LINE",
 "118 516 OFFCURVE",
@@ -100420,8 +100402,8 @@ nodes = (
 "111 505 LINE",
 "110 505 LINE",
 "109 506 LINE",
-"109 506 OFFCURVE",
-"107 505 OFFCURVE",
+"108 506 OFFCURVE",
+"106 504 OFFCURVE",
 "105 503 CURVE SMOOTH",
 "101 499 LINE",
 "93 491 LINE",
@@ -100540,8 +100522,8 @@ nodes = (
 "68 226 OFFCURVE",
 "68 227 CURVE",
 "64 227 LINE",
+"64 226 OFFCURVE",
 "64 224 OFFCURVE",
-"64 223 OFFCURVE",
 "64 223 CURVE",
 "63 220 LINE",
 "59 220 LINE",
@@ -100999,8 +100981,8 @@ nodes = (
 "335 191 OFFCURVE",
 "333 195 OFFCURVE",
 "328 198 CURVE SMOOTH",
-"323 201 OFFCURVE",
-"321 203 OFFCURVE",
+"324 200 OFFCURVE",
+"322 202 OFFCURVE",
 "321 203 CURVE",
 "321 204 LINE",
 "317 207 LINE",
@@ -101012,8 +100994,8 @@ nodes = (
 "309 216 OFFCURVE",
 "309 217 CURVE",
 "306 220 LINE",
-"306 220 OFFCURVE",
 "305 220 OFFCURVE",
+"304 220 OFFCURVE",
 "303 220 CURVE",
 "303 222 LINE SMOOTH",
 "303 221 OFFCURVE",
@@ -101041,10 +101023,8 @@ nodes = (
 "278 174 OFFCURVE",
 "276 175 CURVE SMOOTH",
 "270 175 LINE",
-"269 175 LINE SMOOTH",
-"269 175 OFFCURVE",
-"268 175 OFFCURVE",
-"268 175 CURVE SMOOTH",
+"269 175 LINE",
+"268 175 LINE",
 "266 174 LINE",
 "262 174 LINE",
 "261 176 LINE",
