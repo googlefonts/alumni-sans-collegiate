@@ -26172,8 +26172,9 @@ rightKerningGroup = d;
 unicode = 0064;
 },
 {
+color = 0;
 glyphname = eth;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:26:51 +0000";
 layers = (
 {
 background = {
@@ -105151,8 +105152,9 @@ width = 5;
 note = space.smcap;
 },
 {
+color = 0;
 glyphname = cedi;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:27:34 +0000";
 layers = (
 {
 background = {
@@ -105737,8 +105739,9 @@ note = cent;
 unicode = 00A2;
 },
 {
+color = 0;
 glyphname = colonsign;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:28:29 +0000";
 layers = (
 {
 background = {
@@ -107769,8 +107772,9 @@ note = franc;
 unicode = 20A3;
 },
 {
+color = 0;
 glyphname = guarani;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:28:41 +0000";
 layers = (
 {
 background = {
@@ -108092,8 +108096,9 @@ width = 371;
 unicode = 20B2;
 },
 {
+color = 0;
 glyphname = kip;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:28:46 +0000";
 layers = (
 {
 background = {
@@ -108794,8 +108799,9 @@ note = lira;
 unicode = 20A4;
 },
 {
+color = 0;
 glyphname = liraTurkish;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:28:43 +0000";
 layers = (
 {
 background = {
@@ -109396,8 +109402,9 @@ width = 460;
 unicode = 20BC;
 },
 {
+color = 0;
 glyphname = naira;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:28:54 +0000";
 layers = (
 {
 background = {
@@ -109719,8 +109726,9 @@ width = 512;
 unicode = 20A6;
 },
 {
+color = 0;
 glyphname = peseta;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:28:54 +0000";
 layers = (
 {
 background = {
@@ -110030,8 +110038,9 @@ note = peseta;
 unicode = 20A7;
 },
 {
+color = 0;
 glyphname = peso;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:28:54 +0000";
 layers = (
 {
 background = {
@@ -110708,8 +110717,9 @@ note = ruble;
 unicode = 20BD;
 },
 {
+color = 0;
 glyphname = rupeeIndian;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:28:54 +0000";
 layers = (
 {
 background = {
@@ -111462,8 +111472,9 @@ note = sterling;
 unicode = 00A3;
 },
 {
+color = 0;
 glyphname = won;
-lastChange = "2021-12-07 23:32:14 +0000";
+lastChange = "2022-02-25 01:28:31 +0000";
 layers = (
 {
 background = {
@@ -141171,5 +141182,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 7;
+versionMinor = 8;
 }
