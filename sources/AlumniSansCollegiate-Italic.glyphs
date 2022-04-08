@@ -7,7 +7,7 @@ DisplayStrings = (
 "l/Aacute.ss01 ln/doubleprimemod n«/guilsinglleft n/guilsinglright »/second/minute",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/Acircumflex.ss01 \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\012012347507647989/nbspace \012/Acircumflex.ss01/Adieresis.ss01/Agrave.ss01/Aring.ss01/Atilde.ss01/AE.ss01/B.ss01/C.ss01/Ccedilla.ss01/D.ss01 2$1\012nn/Placeholder no/Placeholder oo/space nnnn/space nnnnn",
 "THE/space QUICK/space BROWN/space FOX/space JUMPS/space OVER/space THE/space LAZY/space DOG\012/Eacute.ss01/Ecircumflex.ss01",
-"/space.ss01",
+noHOt,
 "/A.ss01/Aacute.ss01/Acircumflex.ss01/Adieresis.ss01/Agrave.ss01/Aring.ss01/Atilde.ss01/AE.ss01/B.ss01/C.ss01/Ccedilla.ss01/D.ss01/E.ss01/Eacute.ss01/Ecircumflex.ss01/Edieresis.ss01/Egrave.ss01/F.ss01/G.ss01/H.ss01/I.ss01/Iacute.ss01/Icircumflex.ss01/Idieresis.ss01/Igrave.ss01/J.ss01/K.ss01/L.ss01/M.ss01/N.ss01/Ntilde.ss01/O.ss01/Oacute.ss01/Ocircumflex.ss01/Odieresis.ss01/Ograve.ss01/Oslash.ss01/Otilde.ss01/OE.ss01/P.ss01/Q.ss01/R.ss01/S.ss01/Scaron.ss01/T.ss01/U.ss01/Uacute.ss01/Ucircumflex.ss01/Udieresis.ss01/Ugrave.ss01/V.ss01/W.ss01/X.ss01/Y.ss01/Yacute.ss01/Ydieresis.ss01/Z.ss01/Zcaron.ss01",
 "the/space quick/space 1+2/space brxoxn/space fox/space/dotaccentcomb/cdotaccent á/edotaccent/gdotaccent/idotaccent j/odotaccentmacron/zdotaccent/dotbelowcomb/dotaccent/dotaccentcomb.case jumps/space over/space the/space lazy/space dog"
 );
@@ -55,7 +55,7 @@ value = 1;
 date = "2021-11-22 03:34:52 +0000";
 designer = "Robert E. Leuschke";
 designerURL = www.typesetit.com;
-familyName = "Alumni Sans Collegiate";
+familyName = "Alumni Sans Collegiate One";
 featurePrefixes = (
 {
 automatic = 1;
@@ -260,8 +260,16 @@ name = Uc_top;
 position = "{88, 745}";
 }
 );
+horizontalStems = (
+100
+);
 id = "6544E2DB-1912-401E-9B5B-A29F161A5995";
 italicAngle = 8;
+verticalStems = (
+134,
+17,
+127
+);
 weightValue = 400;
 xHeight = 495;
 }
@@ -7291,7 +7299,7 @@ unicode = 00D1;
 },
 {
 glyphname = O;
-lastChange = "2022-02-25 00:39:36 +0000";
+lastChange = "2022-04-08 01:36:40 +0000";
 layers = (
 {
 anchors = (
@@ -7528,60 +7536,39 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"163 100 OFFCURVE",
-"160 102 OFFCURVE",
-"158 106 CURVE SMOOTH",
-"156 110 OFFCURVE",
-"156 117 OFFCURVE",
+"157 100 OFFCURVE",
+"155 110 OFFCURVE",
 "157 127 CURVE SMOOTH",
 "204 458 LINE SMOOTH",
-"206 469 OFFCURVE",
-"208 476 OFFCURVE",
-"211 480 CURVE SMOOTH",
-"214 483 OFFCURVE",
-"217 485 OFFCURVE",
-"222 485 CURVE SMOOTH",
-"225 485 OFFCURVE",
-"228 483 OFFCURVE",
-"230 480 CURVE SMOOTH",
-"232 476 OFFCURVE",
-"233 469 OFFCURVE",
+"207 479 OFFCURVE",
+"212 485 OFFCURVE",
+"221 485 CURVE SMOOTH",
+"232 485 OFFCURVE",
+"233 475 OFFCURVE",
 "231 458 CURVE SMOOTH",
 "184 127 LINE SMOOTH",
-"183 117 OFFCURVE",
-"181 110 OFFCURVE",
-"178 106 CURVE SMOOTH",
-"175 102 OFFCURVE",
-"171 100 OFFCURVE",
+"181 108 OFFCURVE",
+"177 100 OFFCURVE",
 "168 100 CURVE SMOOTH"
 );
 },
 {
 closed = 1;
 nodes = (
-"170 109 OFFCURVE",
-"172 110 OFFCURVE",
-"173 113 CURVE SMOOTH",
-"174 116 OFFCURVE",
-"175 120 OFFCURVE",
+"172 109 OFFCURVE",
+"174 113 OFFCURVE",
 "176 127 CURVE SMOOTH",
 "223 458 LINE SMOOTH",
-"224 465 OFFCURVE",
-"225 470 OFFCURVE",
-"224 473 CURVE SMOOTH",
-"223 475 OFFCURVE",
-"221 476 OFFCURVE",
+"225 472 OFFCURVE",
+"224 476 OFFCURVE",
 "220 476 CURVE SMOOTH",
-"218 476 OFFCURVE",
-"217 475 OFFCURVE",
-"216 473 CURVE SMOOTH",
-"215 470 OFFCURVE",
-"213 465 OFFCURVE",
+"217 476 OFFCURVE",
+"214 473 OFFCURVE",
 "212 458 CURVE SMOOTH",
-"165 127 LINE",
-"164 115 OFFCURVE",
-"166 109 OFFCURVE",
-"169 109 CURVE SMOOTH"
+"165 127 LINE SMOOTH",
+"163 115 OFFCURVE",
+"164 109 OFFCURVE",
+"168 109 CURVE SMOOTH"
 );
 }
 );
@@ -33106,7 +33093,7 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2022-02-25 00:39:31 +0000";
+lastChange = "2022-04-08 01:33:16 +0000";
 layers = (
 {
 anchors = (
@@ -33212,8 +33199,8 @@ nodes = (
 "366 501 OFFCURVE",
 "294 501 CURVE SMOOTH",
 "258 501 OFFCURVE",
-"229 488 OFFCURVE",
-"206 469 CURVE",
+"228 487 OFFCURVE",
+"206 465 CURVE",
 "207 495 LINE",
 "42 495 LINE",
 "-28 0 LINE"
@@ -33228,10 +33215,9 @@ nodes = (
 "208 454 OFFCURVE",
 "243 483 OFFCURVE",
 "294 483 CURVE SMOOTH",
-"354 483 OFFCURVE",
-"371 448 OFFCURVE",
+"347 483 OFFCURVE",
+"373 456 OFFCURVE",
 "363 388 CURVE SMOOTH",
-"363 389 LINE",
 "312 18 LINE",
 "158 18 LINE",
 "205 357 LINE",
@@ -33664,7 +33650,7 @@ unicode = 00F1;
 },
 {
 glyphname = o;
-lastChange = "2022-02-25 00:39:31 +0000";
+lastChange = "2022-04-08 01:33:48 +0000";
 layers = (
 {
 anchors = (
@@ -33849,20 +33835,20 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"37 7 OFFCURVE",
-"-6 36 OFFCURVE",
+"37 6 OFFCURVE",
+"-6 35 OFFCURVE",
 "14 176 CURVE SMOOTH",
 "40 361 LINE SMOOTH",
-"54 457 OFFCURVE",
-"114 486 OFFCURVE",
-"214 486 CURVE SMOOTH",
-"313 486 OFFCURVE",
-"365 456 OFFCURVE",
+"54 458 OFFCURVE",
+"114 487 OFFCURVE",
+"214 487 CURVE SMOOTH",
+"313 487 OFFCURVE",
+"365 457 OFFCURVE",
 "352 361 CURVE SMOOTH",
 "326 176 LINE SMOOTH",
-"306 35 OFFCURVE",
-"254 7 OFFCURVE",
-"146 7 CURVE SMOOTH"
+"306 34 OFFCURVE",
+"254 6 OFFCURVE",
+"146 6 CURVE SMOOTH"
 );
 },
 {
@@ -33897,11 +33883,8 @@ nodes = (
 "187 399 OFFCURVE",
 "194 406 OFFCURVE",
 "203 406 CURVE SMOOTH",
-"207 406 OFFCURVE",
-"210 404 OFFCURVE",
-"212 400 CURVE SMOOTH",
-"214 396 OFFCURVE",
-"214 389 OFFCURVE",
+"212 406 OFFCURVE",
+"215 398 OFFCURVE",
 "213 379 CURVE SMOOTH",
 "176 115 LINE SMOOTH",
 "174 104 OFFCURVE",
@@ -139463,5 +139446,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 9;
+versionMinor = 10;
 }

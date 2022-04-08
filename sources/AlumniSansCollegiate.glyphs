@@ -7,7 +7,7 @@ abcdefghijklmnopqrstuvwxyz,
 ".,:;/ellipsis !¡?¿·/bullet *#///backslash/periodcentered.loclCAT.case/exclamdown.lining/questiondown.lining/periodcentered.loclCAT/period.ss01/comma.ss01/colon.ss01/semicolon.ss01/exclam.ss01/exclamdown.ss01/question.ss01/questiondown.ss01/asterisk.ss01/numbersign.ss01/slash.ss01/backslash.ss01 (){}[]/parenleft.ss01/parenright.ss01/braceleft.ss01/braceright.ss01/bracketleft.ss01/bracketright.ss01",
 "</greaterequal/lessequal ±/approxequal ~¬^/infinity/integral/Ohm/increment/product/summation/radical µ/partialdiff %/perthousand/plus.ss01/minus.ss01/multiply.ss01/divide.ss01/equal.ss01/greater.ss01/less.ss01/percent.ss01/percent.super/lozenge/apple @&¶§©®/trademark °/minute/second |¦/dagger/literSign/daggerdbl/estimated/numero/ampersand.001/ampersand.002/at.ss01/ampersand.ss01/bar.ss01/at.sc/ampersand.sc/copyright.sc/registered.sc/bar.sc",
 "/zero.slash/aogonek ç/dcroat/eogonek/hbar/iogonek/ohorn/oogonek/scedilla/tbar/uhorn/uogonek",
-"/be-cy",
+"/be-cy noHOt",
 "n/doubleprimemod n«/guilsinglleft n/guilsinglright »/second/minute",
 "QUICK/space WAFTING/space ZEPHYRS/space VEX/space BOLD/space JIM.\012quick/space wafting/space zephyrs/space vox/space bold/space jim.\012$14.95",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\012012347507647989/nbspace \012/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf 2$1\012nn/Placeholder no/Placeholder oo",
@@ -279,12 +279,21 @@ position = "{-274, 195}";
 position = "{-264, 318}";
 }
 );
+horizontalStems = (
+100,
+17
+);
 id = "04A772B0-FA71-43EE-BB43-CAC7F0EBD631";
 userData = {
 GSOffsetHorizontal = -9;
 GSOffsetProportional = 1;
 GSOffsetVertical = 10;
 };
+verticalStems = (
+133,
+17,
+142
+);
 visible = 1;
 weightValue = 400;
 xHeight = 495;
@@ -109679,5 +109688,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 1;
-versionMinor = 9;
+versionMinor = 10;
 }

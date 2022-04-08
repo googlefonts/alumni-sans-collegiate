@@ -1,5 +1,6 @@
 sources:
   - AlumniSansCollegiate.glyphs
   - AlumniSansCollegiate-Italic.glyphs
-familyName: "Alumni Sans Collegiate"
+familyName: "Alumni Sans Collegiate One"
 buildVariable: false
+autohintTTF: false
