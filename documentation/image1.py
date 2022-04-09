@@ -16,7 +16,7 @@ import argparse
 
 # Constants, these are the main "settings" for the image
 WIDTH, HEIGHT, MARGIN, FRAMES = 4000, 1800, 128, 1
-FONT_PATH = "../fonts/ttf/AlumniSansCollegiate-Regular.ttf"
+FONT_PATH = "../fonts/ttf/AlumniSansCollegiateOne-Regular.ttf"
 FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 24
@@ -29,7 +29,7 @@ GRID_VIEW = False # Change this to "True" for a grid overlay
 # Handel the "--output" flag
 # For example: $ python3 documentation/image1.py --output documentation/image1.png
 parser = argparse.ArgumentParser()
-parser.add_argument("--output", metavar="PNG", help="where to write the PNG file")
+parser.add_argument("--output", "-o", metavar="PNG", help="where to write the PNG file")
 args = parser.parse_args()
 
 # Load the font with the parts of fonttools that are imported with the line:
