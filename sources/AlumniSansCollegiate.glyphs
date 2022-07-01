@@ -11,7 +11,6 @@ abcdefghijklmnopqrstuvwxyz,
 "n/doubleprimemod n«/guilsinglleft n/guilsinglright »/second/minute",
 "QUICK/space WAFTING/space ZEPHYRS/space VEX/space BOLD/space JIM.\012quick/space wafting/space zephyrs/space vox/space bold/space jim.\012$14.95",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\012012347507647989/nbspace \012/zero.lf/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf 2$1\012nn/Placeholder no/Placeholder oo",
-abcdefghijklmnopqrstuvwxyz,
 ABOCDEFGHIJKLMNOPQRSTUVWXYZ,
 t
 );
@@ -103484,5 +103483,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 1;
-versionMinor = 10;
+versionMinor = 100;
 }
